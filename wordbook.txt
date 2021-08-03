@@ -1,19 +1,19 @@
-# Children's Writer's Word Book
+ Children's Writer's Word Book
 
 SOME THINGS YOU'LL NEED TO KNOW 
-================================
+
 
 MORE ON WORDS AND LANGUAGE  
-----------------------------
 
-### Unusual Words.
 
-To introduce words not in the child's standard vocabulary---foreign words, for example---if it is possible, give the definition first, then the word. 
+ Unusual Words.
+
+To introduce words not in the child's standard vocabulary—foreign words, for example—if it is possible, give the definition first, then the word. 
 It is also common practice to underline the word the first time it is used. 
 Readers of any age tend to skip over unfamiliar words without trying to read them, getting the meaning from the context of the sentence. 
 Giving the definition first makes it much easier to actually learn the new word. 
 
-### Names.
+ Names.
 
 Nicknames for your characters can be highly desirable. 
 They can help describe someone's personality or appearance with little or no exposition: "Hey, Red, come here!" "Go get Pokey so we can get started." They can also set the mood as hostile or friendly or describe the cultural set of an era or a nation. 
@@ -24,7 +24,7 @@ Believe me, Little Leroy and Bitsy Betty have problems, too, whether you intende
 Psychologically, the diminutive name takes away personal power and emasculates. 
 Even names like Jimmy or Billy fall into this cabinet.
 
-### Nonsexist and Nonracist Terminology.
+ Nonsexist and Nonracist Terminology.
 
 It is good to use generic terminology instead of words that express gender bias. 
 For example, use mail carrier instead of mailman, and carry that principle to all occupations or positions that end with man. 
@@ -36,7 +36,7 @@ Another area to avoid in nonsexist writing is stereotypical roles, such as exclu
 Women and men should be treated the same in all types of stories, as should boys and girls. 
 Again, stay away from stereotyping.
 
-### Diversity.
+ Diversity.
 
 Race, religion, and physical abilities are other areas where you should be sensitive to word usage. 
 Use African American or of African heritage instead of black, and Native American instead of Indian. 
@@ -54,19 +54,19 @@ For example, a boy may try to hide in the bushes or shadow a suspect while hummi
 As noted before, nicknames are another good tag you can use to help describe a character.
 
 THEME AND CONTENT  
--------------------
 
-### Character's Ages.
+
+ Character's Ages.
 
 The protagonist(s) of your story should be the same age as or a little older than the reader. 
 Establish the age of the protagonist as soon as possible, and make sure your characters act appropriately for their ages.
 
-### Taboos.
+ Taboos.
 
 While the market is much more flexible than in the past, stay away from any positive portrayal of drugs, tobacco, alcohol, explicit sex, crime, and violence. 
 Drunkenness particularly should never be portrayed in a humorous light. 
 You will find certain themes, while not actually taboo, difficult to sell. 
-Animals that talk to people are almost impossible to sell---even as fantasy. 
+Animals that talk to people are almost impossible to sell—even as fantasy. 
 'Lil Toot and The Little Engine That Could aside, anthropomorphizing inanimate objects also makes for a difficult sale. 
 Stories that turn out to be only a dream are not often welcome, especially if waking up is used to solve a plot problem. 
 Things that are too cute, too old-fashioned, or too common usually get the cold shoulder, too. 
@@ -74,15 +74,15 @@ Things that are too cute, too old-fashioned, or too common usually get the cold 
 One of those not-taboo-but subjects is weight. 
 There is currently a medical, political, and social focus on overweight children and youth that promises to have a very real impact on our culture. 
 At the same time, eating disorders are a very real issue, especially with preteens and early teens. 
-As a result, the subject of weight should be handled carefully---especially if it is not the focus of the story or book you are writing.
+As a result, the subject of weight should be handled carefully—especially if it is not the focus of the story or book you are writing.
 
-### Fantasy and Fairy Stories.
+ Fantasy and Fairy Stories.
 
 Fantasy is a healthy field for juvenile publishing. 
 However, retelling such classics as Thumbelina or The Goose Girl in modern dress is sure to garner rejection slips instead of praise. 
 If you are tempted to begin your story "Once upon a time," you should probably think about how it will fit in your target publisher's list.
 
-### Mystery.
+ Mystery.
 
 There is a great difference between adult and children's mysteries. 
 Violence is generally out for any age group. 
@@ -91,14 +91,14 @@ The only corpses are generally ancient mummies that lend a creepy mood to a stor
 Missing treasure, old legends and secrets, theft, and even kidnapping have formed the core of wonderful juvenile mysteries. 
 Many mystery books are elaborate puzzles the reader is meant to solve. 
 
-### Science Fiction.
+ Science Fiction.
 
 Science fiction becomes popular around fourth or fifth grade when it is a venue for fast-paced adventure. 
 With science making headlines daily and subjects such as space and ecology entering the standard curriculum by second or third grade, science fiction stories may well find a home in even younger markets. 
 By the sixth grade, character development becomes important. 
 Science fiction is often a pleasant and charming way of explaining science or giving facts, but make sure its primary goal is to entertain.
 
-### Romance.
+ Romance.
 
 Romance stories are popular with sixth graders on up. 
 Contemporary stories often include urban themes such as gangs, alcohol, and sex. 
@@ -112,12 +112,12 @@ Issues such as divorce and death (usually the death of a pet) are now being intr
 These issues must be handled carefully, but they open up new markets for stories that deal with the modern child's reality.
 
 AGE GROUPS AND READING LEVELS 
-------------------------------
+
 
 This section covers the age groupings and categories of books that publishers recognize. 
 First, let's discuss the age groups. 
 
-### Level Books.
+ Level Books.
 
 Many books are now indicated by levels rather than by specific grades. 
 For example, Level 1 is generally used for kindergarten through second grade. 
@@ -125,7 +125,7 @@ This three-grade spread recognizes that there is a wide range of normal abilitie
 The vocabulary used for the level is the middle one, in this case, first grade. 
 Many children are ahead or behind the usual target vocabularies for grade and age, and level books allow the students to use materials that are appropriate for them without some of the social issues involved with reading material identified as being for a grade different from the one the student is in.
 
-### Preschool to Kindergarten.
+ Preschool to Kindergarten.
 
 Preschool books that are self-readers constitute a much larger market than in the past. 
 Early childhood education is a major focus of both state and national educational programs, and reading is a primary focus. 
@@ -138,7 +138,7 @@ He ran after the kitten 
 
 when it came into the room. 
 
-### The Primary Age Group.
+ The Primary Age Group.
 
 This group, which includes children from six- to eight-years-old, or first through third grades, reads the picture book, picture story, and easy-to-read book. 
 More magazines are aimed at this age group than at younger children. 
@@ -146,7 +146,7 @@ The easy reader is meant for the child to read alone, and the target sentence le
 All the words given in the kindergarten through third-grade word lists are appropriate to use when writing for this group. 
 There is some movement toward taking the chapter book concept, in very short chapters, to grades one and two rather than waiting until level three or third grade, as is most common.
 
-### The Elementary Level.
+ The Elementary Level.
 
 Traditionally this has included the eight- to twelve-year-olds, or the fourth through sixth graders. 
 More and more often this now is used to identify third through fifth grade, or seven- through ten- or eleven-year olds. 
@@ -157,7 +157,7 @@ Fiction should have a lot of action, and both fiction and nonfiction should deal
 Most books written for this age group range between 20,000 and 40,000 words. 
 Most magazines use stories ranging from 700 to 2,000 words and often have a page or two of short-shorts under 100 words.
 
-### Middle School Through High School.
+ Middle School Through High School.
 
 Middle school, a new addition to this book, includes the sixth through eighth grades. 
 The two groups, middle school and high school, include twelve- to eighteen-year-olds. 
@@ -172,11 +172,11 @@ Magazine stories range from 1,000 to 3,500 words.
 Eighty percent of this market is nonfiction and include age-related problems, interviews, and special interests.
 
 WHAT KIND OF BOOK IS IT?
-------------------------
+
 
 The terms that follow are commonly used by publishers to describe the different types of children's books. 
 
-### Picture Books.
+ Picture Books.
 
 There are basically three types of picture books. 
 The first type of picture book is for babies to three-year-olds, has little text, and is often prepared by publishers in-house. 
@@ -193,12 +193,11 @@ These books must have a story to tell.
 They should have a beginning, a middle, and an end. 
 There should be a plot, but it should be simple. 
 Children in this age group still like to be read to, and rhythm keeps them attentive. 
-Picture books may run from as few as 50 words to 1,500. 
-Most picture books average 500 to 1,000 words. 
+Picture books may run from as few as 50 words to 1,500. Most picture books average 500 to 1,000 words. 
 Books for the youngest listeners (through five years old) should take no more than twenty minutes to read; ten to fifteen minutes is preferred. 
 Keep in mind the short attention span of the listener. 
 
-### Picture Story.
+ Picture Story.
 
 Picture stories are the picture books in which text carries the story. 
 These are for the five- to eight-year-old. 
@@ -215,7 +214,7 @@ When putting your story together, try not to break up phrases between lines.
 To make sure that you haven't done this and that your story is easy to read, read it out loud a few times. 
 These books are for the child to read alone; if your book is meant to be read by an adult to a child, notify the publisher when you submit it.
 
-### Hi-Lo Books.
+ Hi-Lo Books.
 
 The term hi-lo means high interest, low reading level. 
 These books are purchased mainly by schools and are written for people learning to read or those who are reading behind grade level. 
@@ -230,21 +229,21 @@ Sentence length is about ten to twelve words.
 Stories should be fast paced and have a tightly knit plot. 
 You can write a hi-lo book on the second-grade level, but the story must be mature in theme. 
 
-### Young Adult Novels.
+ Young Adult Novels.
 
 These books are written for readers aged twelve to eighteen. 
 They are similar to mainstream novels except the protagonist is a teen or young adult, and the story is relevant to that age group.
 
 TECHNICAL ITEMS THAT HELP YOU SELL  
-------------------------------------
 
-### Word Count.
+
+ Word Count.
 
 One of the most common reasons magazines reject good manuscripts is the failure to include a word count at the top of the first page. 
 The use of computers with their varying type faces, sizes, and spacing has made even standard formulas for computing word count unreliable. 
 It may not matter with a one- or two-page piece, but editors are not going to sit and count the number of words in your work to see if it will fit their format.
 
-### Standard Format.
+ Standard Format.
 
 There are individuals at writers' conferences and some articles and books that encourage you to have your manuscript stand out by using colored paper or type. 
 Even more suggest that your manuscript should include the rights you are selling at the top of the first page or that it should include a copyright notice. 
@@ -262,19 +261,19 @@ The San Diego Zoo has pandas  
 
 That way, a number of pages can be shown on a single manuscript page. 
 
-### Bibliographies.
+ Bibliographies.
 
 Occasionally children's periodicals ask writers to submit lists of reference material to support their facts. 
 Do keep track of your source material; do not submit it with your story until asked for it unless you know the periodical requires it. 
 Books are another matter; reference material should be cited with any work of nonfiction or fiction.
 
 OTHER TYPES OF WRITING  
-------------------------
+
 
 So far this book has primarily dealt with books. 
 A great many other markets are available to authors who write for children, including magazines, radio and television, and the legitimate stage. 
 
-### Features.
+ Features.
 
 A feature is a newspaper or magazine story that allows emotional involvement or entertains as well as informs. 
 Such stories almost always make your audience feel something or want to do something. 
@@ -282,15 +281,14 @@ Feature stories really come into their own at the elementary level.
 Fourth-, fifth-, and sixth-grade magazines often use the feature story style to lend life to science, mathematics, and news stories. 
 Educational inserts in daily newspapers and special educational newspapers also use these kinds of stories.
 
-### Fillers.
+ Fillers.
 
-A filler is a short article or story---usually under 500 words and often under 100. 
-Fillers, such as games, riddles, and items of special scientific or human interest, are especially welcome in young children's periodicals. 
+A filler is a short article or story—usually under 500 words and often under 100. Fillers, such as games, riddles, and items of special scientific or human interest, are especially welcome in young children's periodicals. 
 In broadcasting, fillers are short, nonessential stories kept on hand in case a program runs short. 
 If you are helping to produce a children's television or radio news program, keep a number of these on hand and at the bottom of the reader's pile. 
 Trivia about such things as the world's largest pizza or the biggest pair of shoes is interesting and can be carried week after week until needed.
 
-### Writing for Television.
+ Writing for Television.
 
 The existence of public-access cable television channels and the availability of reasonably priced videotaping equipment have created a variety of exciting opportunities for people throughout the country. 
 Even the smallest schools often videotape students presenting a weekly news report or original drama to be shown on these television channels or for use in the classroom.
@@ -301,7 +299,7 @@ The placement allows the left side of the paper to be used to note what video ac
 Each forty-space line takes about two seconds of on-air time to read. 
 Triple spacing makes it easier for the reader to keep his place and the writer to edit the work. 
 
-### Writing for Radio.
+ Writing for Radio.
 
 Many schools now have their own FM radio broadcasting facilities or access to local college or commercial stations. 
 It's easy to produce material for this medium according to professional industry standards; and like so many other things, it's just as easy for the children to learn the correct format as any other. 
@@ -310,7 +308,7 @@ This line length makes timing your stories easy.
 Each group of sixteen lines takes about one minute to read aloud. 
 It is assumed it takes 3.75 seconds to read each line.
 
-### Writing in Verse.
+ Writing in Verse.
 
 Verse seems to be everywhere in children's publishing, yet it is sometimes very hard to sell. 
 One of the problems is that verse must sound good when read out loud, and it needs to be easy to read for an extended period. 
@@ -319,14 +317,14 @@ If you stumble or have trouble reading it smoothly and easily, go back to work.
 It is a lot easier to sell verse to a magazine because it is generally interspersed with other types of material. 
 A good track record publishing verse in magazines will make it easier to sell a book written the same way.
 
-### Writing Plays.
+ Writing Plays.
 
 Children's plays can be written one of three ways: (1) with children as actors, (2) with adults as actors and children as the audience, and (3) with adults or teens as actors and young adults and teens as the audience. 
 For younger children, action is important, just as it is in other forms of children's writing. 
 As always, themes and protagonists must correlate with the intended audience.
 
 NATIONAL STANDARDS AND BENCHMARKS  
-===================================
+
 
 National standards and benchmarks have been created in a variety of fields. 
 The reading standards included here apply directly to your work and can help you not only sell your work to a broad audience but also help you identify some of the criteria on which your work may be judged. 
@@ -336,10 +334,9 @@ While those may well help you with your work, they are not appropriate to includ
 You will find a brief description of some resources to these areas following the reading and comprehension standards. 
 
 NATIONAL READING AND COMPREHENSION STANDARDS  
-----------------------------------------------
 
-National reading and comprehension standards are grouped with several grades: K--2, 3--5, and 6--8. 
-Grades 4--6 used to be grouped, but because of the popularity of middle schools, the sixth grade is now normally included with the older grades. 
+
+National reading and comprehension standards are grouped with several grades: K--2, 3--5, and 6--8. Grades 4--6 used to be grouped, but because of the popularity of middle schools, the sixth grade is now normally included with the older grades. 
 For a variety of reasons, ranging from multiple languages being spoken in a classroom to the impact of natural disasters (which cause stress and, often, interrupt education), reading comprehension testing shows that much of this middle school population struggles to understand materials traditionally targeted to the older elementary group.1 Thus, the learning period for traditional reading skills has been expanded to include middle schools, and many, if not most, reading comprehension materials and tests group middle school with at least sixth grade. 
 You will also find pre-k has been added due to the national effort for early childhood education. 
 These pre-k standards are more for comprehension and reading readiness than for reading itself. 
@@ -347,452 +344,334 @@ Additionally, though kindergarten through second grades are grouped, you will fi
 It should be noted that the UK has developed very similar standards and benchmarks, and the American and British versions are virtually interchangeable.  
 
 PRE-KINDERGARTEN  
-------------------
+
 
 National standards assume that, before entering kindergarten, a child will know the following skills: 
 
-1. 
-The child should understand that written symbols, whether handwritten or in print, can convey meaning and represent spoken language. 
+1. The child should understand that written symbols, whether handwritten or in print, can convey meaning and represent spoken language. 
 
-2. 
-The child should be able to associate sounds with written words. 
+2. The child should be able to associate sounds with written words. 
 
-3. 
-The child should know the differences between letters, numbers, and words, and the significance of spaces between words. 
+3. The child should know the differences between letters, numbers, and words, and the significance of spaces between words. 
 
-4. 
-The child should know that illustrations and pictures can convey meaning and add to the understanding of the written context. 
+4. The child should know that illustrations and pictures can convey meaning and add to the understanding of the written context. 
 
-5. 
-The child should know that books should be held upright, that they have pages, and that they are read from front to back. 
+5. The child should know that books should be held upright, that they have pages, and that they are read from front to back. 
 
-6. 
-The child should know that, in English, print is read from left to right, top to bottom. 
+6. The child should know that, in English, print is read from left to right, top to bottom. 
 
-7. 
-The child should know at least some letters of the alphabet. 
+7. The child should know at least some letters of the alphabet. 
 
-8. 
-The child should recognize some familiar words in print, such as her own first name. 
+8. The child should recognize some familiar words in print, such as her own first name. 
 
-9. 
-The child should know how to spell his own first name. 
+9. The child should know how to spell his own first name. 
 
-10. 
-The child should know that printed information is used in a variety of places such as books, letters, and food labels, and that each of those conveys information that serves a particular purpose. 
+10. The child should know that printed information is used in a variety of places such as books, letters, and food labels, and that each of those conveys information that serves a particular purpose. 
 
-11. 
-The child should know familiar words and numbers in her environment such as stop signs, the names of stores, and street signs. 
+11. The child should know familiar words and numbers in her environment such as stop signs, the names of stores, and street signs. 
 
-12. 
-The child should be able to make simple predictions about upcoming events or outcomes in stories using illustrations and prior knowledge as a guide. 
+12. The child should be able to make simple predictions about upcoming events or outcomes in stories using illustrations and prior knowledge as a guide. 
 
-13. 
-The child, gathering information from pictures, should be able to tell the general story presented in a book or pretend to read the story to himself or others. 
+13. The child, gathering information from pictures, should be able to tell the general story presented in a book or pretend to read the story to himself or others. 
 
-14. 
-The child should know that books have titles, authors, and sometimes illustrators. 
+14. The child should know that books have titles, authors, and sometimes illustrators. 
 
-15. 
-The child should know what role the author plays (the writer of the story). 
+15. The child should know what role the author plays (the writer of the story). 
 
-16. 
-The child should know that the illustrator draws the pictures in the book. 
+16. The child should know that the illustrator draws the pictures in the book. 
 
-17. 
-The child should know the title is the name of the book. 
+17. The child should know the title is the name of the book. 
 
-18. 
-The child should know the sequence of events in a story: what happens first, in the middle, and at the end. 
+18. The child should know the sequence of events in a story: what happens first, in the middle, and at the end. 
 
-19. 
-The child should know the elements of a story such as the names of the characters, what happens in the story (the plot), where the story is set, and so on. 
+19. The child should know the elements of a story such as the names of the characters, what happens in the story (the plot), where the story is set, and so on. 
 
-20. 
-The child should understand the literal meaning of plays, poems, and stories. 
+20. The child should understand the literal meaning of plays, poems, and stories. 
 
-21. 
-The child should know the difference between fact and fiction, that is, real and make-believe. 
+21. The child should know the difference between fact and fiction, that is, real and make-believe. 
 
-22. 
-The child should be able to tell stories from her own life and share her personal experiences.
+22. The child should be able to tell stories from her own life and share her personal experiences.
 
- 23. 
-The child should be able to use drawings to express thoughts, feelings, and ideas. 
+ 23. The child should be able to use drawings to express thoughts, feelings, and ideas. 
 
 KINDERGARTEN  
---------------
+
 
 National standards assume that students will already have accomplished the skills listed as pre-K. 
 During kindergarten, the following skills should be added: 
 
-1. 
-Unlike the middle of the last century, children are now encouraged to use their imagination in many areas, including reading. 
+1. Unlike the middle of the last century, children are now encouraged to use their imagination in many areas, including reading. 
 Reading programs now encourage children to use mental images based on both the pictures and printed words to help them understand the text. 
 
-2. 
-The student should be able to identify visual similarities and differences in words. 
+2. The student should be able to identify visual similarities and differences in words. 
 For example, he should be able to see that the words boy and boys, or farm and farmer are similar and also be able to discriminate between them. 
 
-3. 
-The student is expected to use the subject that she is reading about, as well as picture captions, the story title, and other clues, to aid comprehension and make predictions about what will happen in the story or what a specific character will do. 
+3. The student is expected to use the subject that she is reading about, as well as picture captions, the story title, and other clues, to aid comprehension and make predictions about what will happen in the story or what a specific character will do. 
 
-4. 
-The student is encouraged to sound words out using basic elements of phonetic analysis such as common letter combinations, letter sounds, and word patterns to figure out unknown words. 
+4. The student is encouraged to sound words out using basic elements of phonetic analysis such as common letter combinations, letter sounds, and word patterns to figure out unknown words. 
 
-5. 
-The student should be able to distinguish between written letters, words, and sentences.
+5. The student should be able to distinguish between written letters, words, and sentences.
 
- 6. 
-The student should know the alphabet well enough to be able to identify uppercase and lowercase letters out of alphabetical sequence.
+ 6. The student should know the alphabet well enough to be able to identify uppercase and lowercase letters out of alphabetical sequence.
 
-7. 
-The student should be able to associate specific sounds with specific letters. 
+7. The student should be able to associate specific sounds with specific letters. 
 
-8. 
-The student should be able to verbalize consonant sounds when shown consonant letters. 
+8. The student should be able to verbalize consonant sounds when shown consonant letters. 
 
-9. 
-The student should be able to recognize rhyming words, primarily consonant-vowel-consonant (CVC) words such as cat, hat, bat, rat. 
+9. The student should be able to recognize rhyming words, primarily consonant-vowel-consonant (CVC) words such as cat, hat, bat, rat. 
 
-10. 
-The student should read selected sight words, such as doll and candy, very early in the year. 
+10. The student should read selected sight words, such as doll and candy, very early in the year. 
 By the end of the year, the student should be able to read all the words given in the kindergarten list in this book. 
 
-11. 
-The student should be able to recall orally a series of three items that she is shown. 
+11. The student should be able to recall orally a series of three items that she is shown. 
 
-12. 
-The student should be able to use words that signal sequence relationships such as first, next, and last; up, down, around; and over, under. 
+12. The student should be able to use words that signal sequence relationships such as first, next, and last; up, down, around; and over, under. 
 
-13. 
-The student should be able to recognize simple word opposites such as boy and girl, left and right. 
+13. The student should be able to recognize simple word opposites such as boy and girl, left and right. 
 
-14. 
-The student should be able to classify objects by characteristics such as color, size, shape, structure, and function. 
+14. The student should be able to classify objects by characteristics such as color, size, shape, structure, and function. 
 
-15. 
-The student should be able to put pictures in a sequence to tell a logical story. 
+15. The student should be able to put pictures in a sequence to tell a logical story. 
 
-16. 
-The student should be able to interpret pictures to identify main idea, sequence of events, cause-effect, and to predict logical outcomes. 
+16. The student should be able to interpret pictures to identify main idea, sequence of events, cause-effect, and to predict logical outcomes. 
 
-17. 
-The student should be able to explain his own drawings and writings in a logical manner or to tell a story. 
+17. The student should be able to explain his own drawings and writings in a logical manner or to tell a story. 
 This indicates that the student understands that illustrations and writing can have meaning. 
 
-18. 
-The student's vocabulary should reflect an increasing range of knowledge and interests. 
+18. The student's vocabulary should reflect an increasing range of knowledge and interests. 
 
 KINDERGARTEN THROUGH SECOND GRADE (LEVEL 1)  
----------------------------------------------
 
-1. 
-By first grade, the young reader has been introduced to syllables, basic prefixes, suffixes, and root words; and by second grade, to compound words, contractions, and spelling patterns. 
+
+1. By first grade, the young reader has been introduced to syllables, basic prefixes, suffixes, and root words; and by second grade, to compound words, contractions, and spelling patterns. 
 These are basic elements of structural analysis. 
 At the appropriate levels, the child is expected to use these skills to decode unknown words. 
 
-2. 
-Depending on the school and the teacher, in first or second grade, the student should be introduced to the idea of a dictionary. 
+2. Depending on the school and the teacher, in first or second grade, the student should be introduced to the idea of a dictionary. 
 In first grade, a picture dictionary is most often used to determine the meaning of words the student does not understand. 
 
-3. 
-The student is expected to understand, as well as read, level-appropriate words and vocabulary such as those given in this book's thesaurus. 
+3. The student is expected to understand, as well as read, level-appropriate words and vocabulary such as those given in this book's thesaurus. 
 That may sound a little odd, but new readers are often able to sound out words without understanding what they mean. 
 
-4. 
-When the young reader does not understand the text, she is expected to search for clues, identify where she has misread or misunderstood words or ideas, reread, and ask for help. 
+4. When the young reader does not understand the text, she is expected to search for clues, identify where she has misread or misunderstood words or ideas, reread, and ask for help. 
 Known as self-correction strategies, the student is expected to take an active part in the development of her reading skills.
 
- 5. 
-Reading aloud is usually introduced in first grade. 
+ 5. Reading aloud is usually introduced in first grade. 
 The student is expected to read familiar stories and poems fluently and with appropriate expression such as rhythm and meter, smooth flow, intonation, and pitch and tone by the time he is well into the second grade. 
 
-6. 
-The student is also introduced to the basic characteristics of familiar types of books, including fairy tales, folktales, fiction, nonfiction, legends, fables, myths, poems, nursery rhymes, picture books, and predictable books.
+6. The student is also introduced to the basic characteristics of familiar types of books, including fairy tales, folktales, fiction, nonfiction, legends, fables, myths, poems, nursery rhymes, picture books, and predictable books.
 
- 7. 
-The student should then be able to use these reading skills to understand these types of age-appropriate literature.
+ 7. The student should then be able to use these reading skills to understand these types of age-appropriate literature.
 
-8. 
-The beginning of literary analysis is introduced, and the student is expected to know about setting, main characters, main events, sequence, and problems in stories. 
+8. The beginning of literary analysis is introduced, and the student is expected to know about setting, main characters, main events, sequence, and problems in stories. 
 The student is also expected to know the main ideas, or theme, of a story. 
 
-9. 
-The student is expected to be able to relate his own personal experiences, including who was involved, what happened, the conflicts, and a general theme. 
+9. The student is expected to be able to relate his own personal experiences, including who was involved, what happened, the conflicts, and a general theme. 
 
-10. 
-The student is expected to use the same skills and strategies to understand and interpret a variety of nonfiction and fiction texts, including written directions, signs, captions, and warning labels. 
+10. The student is expected to use the same skills and strategies to understand and interpret a variety of nonfiction and fiction texts, including written directions, signs, captions, and warning labels. 
 
-11. 
-The student should understand the main idea and supporting details of simple expository writing. 
+11. The student should understand the main idea and supporting details of simple expository writing. 
 
-12. 
-The student should be able to summarize, or retell in her own words, the information read in the text. 
+12. The student should be able to summarize, or retell in her own words, the information read in the text. 
 
-13. 
-The student should be able to relate the new information to his own prior knowledge and experience. 
+13. The student should be able to relate the new information to his own prior knowledge and experience. 
 
-14. 
-The student is asked to use her imagination, based on the pictures and words in the text, to aid in understanding the material she is reading. 
+14. The student is asked to use her imagination, based on the pictures and words in the text, to aid in understanding the material she is reading. 
 
-15. 
-Meaning clues are introduced. 
+15. Meaning clues are introduced. 
 That is, picture captions, the title of the writing, headings, and other hints are used to have the student make predictions about what is going to happen in a story or what a nonfiction piece will be about. 
 
-16. 
-The student is expected to be able to use phonetic strategies to sound out and decode unknown words. 
+16. The student is expected to be able to use phonetic strategies to sound out and decode unknown words. 
 
-17. 
-The student is expected to use structural analysis to better understand unknown words. 
+17. The student is expected to use structural analysis to better understand unknown words. 
 Structural analysis includes breaking the words into syllables, identifying common prefixes and suffixes, finding root words, identifying compound words, and understanding contractions. 
 
-18. 
-The student should be able to read and understand level-appropriate sight words and vocabulary such as those listed for her grade in this book. 
+18. The student should be able to read and understand level-appropriate sight words and vocabulary such as those listed for her grade in this book. 
 
-19. 
-The student should use self-correction strategies such as rereading and asking for help.
+19. The student should use self-correction strategies such as rereading and asking for help.
 
- 20. 
-The student should practice reading aloud familiar stories, poems, and passages with fluency and expression. 
+ 20. The student should practice reading aloud familiar stories, poems, and passages with fluency and expression. 
 
-21. 
-The student is expected to be familiar with, and know the difference between, a variety of literary types, including fables, fairy tales, folktales, legends, myths, poems, nursery rhymes, nonfiction, and more general fiction. 
+21. The student is expected to be familiar with, and know the difference between, a variety of literary types, including fables, fairy tales, folktales, legends, myths, poems, nursery rhymes, nonfiction, and more general fiction. 
 
-22. 
-The student should be able to identify setting, main characters, main events, sequence, and problems in stories. 
+22. The student should be able to identify setting, main characters, main events, sequence, and problems in stories. 
 
 THIRD THROUGH FIFTH GRADE (LEVEL 2)  
--------------------------------------
 
-1. 
-In third grade, the idea of previewing materials to help understand the content is expanded by having the student skim the materials in addition to the clues formerly introduced. 
 
-2. 
-Also introduced are the many reasons for reading such as for information, for pleasure, or to understand a specific viewpoint. 
+1. In third grade, the idea of previewing materials to help understand the content is expanded by having the student skim the materials in addition to the clues formerly introduced. 
 
-3. 
-Along with making simple predictions about what the reading materials will be about, or what will happen, the student learns to revise her predictions when they are not correct. 
+2. Also introduced are the many reasons for reading such as for information, for pleasure, or to understand a specific viewpoint. 
 
-4. 
-The idea of foreshadowing is introduced in a simple way. 
+3. Along with making simple predictions about what the reading materials will be about, or what will happen, the student learns to revise her predictions when they are not correct. 
 
-5. 
-Phonic and structural analyses become more sophisticated, and syntactic structure and semantic context to decode unknown words such as vowel patterns, complex word families, and affixes are further introduced. 
+4. The idea of foreshadowing is introduced in a simple way. 
 
-6. 
-The idea of reading ahead and taking words in context are used to decode unknown words. 
-7. 
-By at least the fourth grade, regular dictionaries are introduced, and the student is taught how to use a variety of other word reference materials such as a glossary and thesaurus to determine the meaning, pronunciation, and derivations of unknown words. 
+5. Phonic and structural analyses become more sophisticated, and syntactic structure and semantic context to decode unknown words such as vowel patterns, complex word families, and affixes are further introduced. 
 
-8. 
-The student is introduced to synonyms, antonyms, homophones, and words with multiple meanings. 
+6. The idea of reading ahead and taking words in context are used to decode unknown words. 
+7. By at least the fourth grade, regular dictionaries are introduced, and the student is taught how to use a variety of other word reference materials such as a glossary and thesaurus to determine the meaning, pronunciation, and derivations of unknown words. 
 
-9. 
-The student should monitor his own reading strategies and make modifications as needed like recognizing when he is confused by a section of text or questions whether the text makes sense. 
+8. The student is introduced to synonyms, antonyms, homophones, and words with multiple meanings. 
 
-10. 
-The student should understand that she can adjust her reading speed to suit her purpose and the difficulty of the material.
+9. The student should monitor his own reading strategies and make modifications as needed like recognizing when he is confused by a section of text or questions whether the text makes sense. 
 
-11. 
-The student should understand the author's purpose or point of view. 
+10. The student should understand that she can adjust her reading speed to suit her purpose and the difficulty of the material.
+
+11. The student should understand the author's purpose or point of view. 
 For example, he should be able to identify whether the writer is trying to persuade or inform the reader. 
 
-12. 
-The student should be able to select reading material of direct interest or use to her based on her knowledge of genres, authors, and why they are choosing the material. 
+12. The student should be able to select reading material of direct interest or use to her based on her knowledge of genres, authors, and why they are choosing the material. 
 
-13. 
-The student should understand the basic concept of plot, including the main problem, conflicts, and resolutions. 
+13. The student should understand the basic concept of plot, including the main problem, conflicts, and resolutions. 
 
-14. 
-Literature from other cultures is often introduced in the third and fourth grade. 
+14. Literature from other cultures is often introduced in the third and fourth grade. 
 The student should understand the similarities and differences between those works and those from her own culture, including setting, what characters are expected to do, and the roles of people and nature. 
 
-15. 
-The elements of character development in literary works are introduced. 
+15. The elements of character development in literary works are introduced. 
 These include the differences between main and minor characters; stereotypical characters as opposed to fully developed characters; changes that characters undergo; the importance of a character's actions, motives, and appearance to plot and theme. 
 
-16. 
-The student should know that themes and basic plots recur across literary works. 
+16. The student should know that themes and basic plots recur across literary works. 
 
-17. 
-By fifth grade, the student should understand personification, alliteration, onomatopoeia, simile, metaphor, imagery, hyperbole, beat, and rhythm. 
+17. By fifth grade, the student should understand personification, alliteration, onomatopoeia, simile, metaphor, imagery, hyperbole, beat, and rhythm. 
 
-18. 
-The student should be able to make connections between characters or basic events that she is reading about and people or events in her own life. 
+18. The student should be able to make connections between characters or basic events that she is reading about and people or events in her own life. 
 
-19. 
-New kinds of literary works are introduced such as formal textbooks, biographies, letters, diaries, directions, and magazines. 
+19. New kinds of literary works are introduced such as formal textbooks, biographies, letters, diaries, directions, and magazines. 
 
-20. 
-The student should be able to explain the differences between different kinds of nonfiction materials, including biographies, diaries, directions, letters, magazines, and textbooks. 
+20. The student should be able to explain the differences between different kinds of nonfiction materials, including biographies, diaries, directions, letters, magazines, and textbooks. 
 
-21. 
-The student should be able to use the way information is organized in a text to find main ideas and specific information quickly. 
+21. The student should be able to use the way information is organized in a text to find main ideas and specific information quickly. 
 This means using topic sentences, graphics, summaries, and headings. 
 
-22. 
-Along with using organizational hints within the text, the student is expected to learn to use the physical layout of the book, including the table of contents, index, glossary, and appendix, to find information in an efficient manner. 
+22. Along with using organizational hints within the text, the student is expected to learn to use the physical layout of the book, including the table of contents, index, glossary, and appendix, to find information in an efficient manner. 
 
-23. 
-The student should be able to summarize and paraphrase information from a text, including the main idea and major supporting details. 
+23. The student should be able to summarize and paraphrase information from a text, including the main idea and major supporting details. 
 
-24. 
-The student should be able to draw from his previous knowledge and experience to respond to what he has read and to help understand new information. 
+24. The student should be able to draw from his previous knowledge and experience to respond to what he has read and to help understand new information. 
 
-25. 
-The student should be able to explain different ways a work is organized or how information in the work is organized; for example, chronologically or sequentially. 
+25. The student should be able to explain different ways a work is organized or how information in the work is organized; for example, chronologically or sequentially. 
 This also includes writing that is centered on organization such as compare and contrast, proposition and support, and cause and effect. 
 
-26. 
-The student should be able to understand the function of chapter breaks in both fiction and nonfiction books. 
+26. The student should be able to understand the function of chapter breaks in both fiction and nonfiction books. 
 27. 
 
 The student should be able to identify different genres of fiction such as fantasy, folk tales, mainstream, and science fiction. 
 
 SIXTH THROUGH EIGHTH GRADE (LEVEL 3)  
---------------------------------------
 
-1. 
-At this level, the student should be able to explain the reason she is reading a specific text. 
+1. At this level, the student should be able to explain the reason she is reading a specific text. 
 These reasons may include enjoyment, problem solving, skimming for facts, reviewing previous material, or understanding an issue or viewpoint. 
 
-2. 
-The student should be introduced to the etymology of words fairly early in sixth grade if not before. 
+2. The student should be introduced to the etymology of words fairly early in sixth grade if not before. 
 This includes Latin and Greek roots, meanings of foreign words frequently used in English, and historical influences, as well as the individual origin of a particular word. 
 
-3. 
-The now more sophisticated student should understand analogies, idioms, metaphors, and similes and be able to use them to infer the meaning of phrases. 
+3. The now more sophisticated student should understand analogies, idioms, metaphors, and similes and be able to use them to infer the meaning of phrases. 
 
-4. 
-The student should also use comparison and contrast, definitions, and examples to make sure he understands the meaning of individual words and to identify shades of meaning between synonyms. 
+4. The student should also use comparison and contrast, definitions, and examples to make sure he understands the meaning of individual words and to identify shades of meaning between synonyms. 
 
-5. 
-The student should know denotative and connotative meanings of the reading material. 
+5. The student should know denotative and connotative meanings of the reading material. 
 
-6. 
-The student should understand the vocabulary of current events even if it is nonstandard for the age. 
+6. The student should understand the vocabulary of current events even if it is nonstandard for the age. 
 
-7. 
-The student should be able to use references such as rhyming dictionaries, etymological dictionaries, and classification books. 
+7. The student should be able to use references such as rhyming dictionaries, etymological dictionaries, and classification books. 
 
-8. 
-Techniques for understanding confusing texts should have grown to include consulting other sources, representing abstract information as mental pictures, and drawing on background knowledge. 
+8. Techniques for understanding confusing texts should have grown to include consulting other sources, representing abstract information as mental pictures, and drawing on background knowledge. 
 
-9. 
-The student should be able to identify the ways in which an author uses language to persuade readers to his viewpoint or to accomplish another purpose. 
+9. The student should be able to identify the ways in which an author uses language to persuade readers to his viewpoint or to accomplish another purpose. 
 The student should be able to identify the use of emotion, appeal to authority, how word choice affects attitude, language structure, and other techniques. 
 
-10. 
-The student should be able to form and express an opinion about what she has read and be able to respond to the text. 
+10. The student should be able to form and express an opinion about what she has read and be able to respond to the text. 
 
-11. 
-The student should be able to identify and understand complex elements of plot development such as the use of subplots, parallel episodes, and climax, as well as the development of conflict and resolution. 
+11. The student should be able to identify and understand complex elements of plot development such as the use of subplots, parallel episodes, and climax, as well as the development of conflict and resolution. 
 
-12. 
-Similarly, the student should be able to identify and explain the elements of character development such as character traits, motivations, relationships between characters, stereotypes, and plot development. 
+12. Similarly, the student should be able to identify and explain the elements of character development such as character traits, motivations, relationships between characters, stereotypes, and plot development. 
 The student should also understand the development of characters through their actions, thoughts, words, and interaction with other characters. 
 
-13. 
-The student should understand foreshadowing, flashback, the development of suspense or tension, and similar literary devices. 
+13. The student should understand foreshadowing, flashback, the development of suspense or tension, and similar literary devices. 
 
-14. 
-The student should understand that the way language is used in literature helps convey mood and meaning as well as create mental images. 
+14. The student should understand that the way language is used in literature helps convey mood and meaning as well as create mental images. 
 Some of the literary techniques include dialect, dialogue, irony, rhyme, symbolism, and tone. 
 This should also include the actual sound of the word and how it interacts with other words, for example, alliteration; assonance; consonance; euphonious and cacophonous words; onomatopoeia; and figurative language such as similes, metaphors, personification, hyperbole, and allusion. 
 
-15. 
-The student should also be aware that the structure of the writing can convey emotion and affect the tempo of the story. 
+15. The student should also be aware that the structure of the writing can convey emotion and affect the tempo of the story. 
 For example, very short sentences are often used to create tension or convey urgency while long sentences with adjectives are often used to slow the pace of a story. 
 
-16. 
-The student should be able to explain the effect of an author's style, such as word choice and imagery, on the reader. 
+16. The student should be able to explain the effect of an author's style, such as word choice and imagery, on the reader. 
 
-17. 
-The student should be able to identify the point of view used in a literary text such as first or third person, limited and omniscient, and how that affects what the reader knows. 
+17. The student should be able to identify the point of view used in a literary text such as first or third person, limited and omniscient, and how that affects what the reader knows. 
 
-18. 
-The student should be able to explain implied and recurring themes in literary works such as good versus evil; bravery; friendship; loyalty; and historical, cultural, and social themes. 
+18. The student should be able to explain implied and recurring themes in literary works such as good versus evil; bravery; friendship; loyalty; and historical, cultural, and social themes. 
 
-19. 
-The student should be able to see the similarities between the motivation of characters in a text, or the causes of complex events, and her own life and the world around her. 
+19. The student should be able to see the similarities between the motivation of characters in a text, or the causes of complex events, and her own life and the world around her. 
 
-20. 
-By sixth grade, the student should be able to follow map routes, order from a catalogue, use bus schedules and understand routes, and use telephone and other directories 
+20. By sixth grade, the student should be able to follow map routes, order from a catalogue, use bus schedules and understand routes, and use telephone and other directories 
 
-21. 
-The student should be able to make judgments on the quality of source materials, such as between standard newspapers and tabloids. 
+21. The student should be able to make judgments on the quality of source materials, such as between standard newspapers and tabloids. 
 The student should also be able to make critical judgments about, and know how to use, primary source materials such as letters and historical documents. 
 
-22. 
-Besides being able to summarize read materials, the student should be able to properly quote materials and convey the author's viewpoint. 
+22. Besides being able to summarize read materials, the student should be able to properly quote materials and convey the author's viewpoint. 
 
-23. 
-The student should be able to draw conclusions based on implicit, as well as explicit, information in a text. 
+23. The student should be able to draw conclusions based on implicit, as well as explicit, information in a text. 
 
-24. 
-The student should be able to differentiate between fact and opinion within the same text. 
+24. The student should be able to differentiate between fact and opinion within the same text. 
 
 WHERE TO FIND INFORMATION ON OTHER STANDARDS AND BENCHMARKS 
-------------------------------------------------------------
+
 
 Science and Technology  Many, if not most, magazines for children now have science stories as a regular part of their content. 
 Project 2061 of the American Association for the Advancement of Science is a long-term initiative dealing with K--12 science nationwide. 
-The project is creating a coordinated set of reform tools and services---books, CD-ROMS, online resources, and workshops-to help educators work toward science literacy for all students, and is a wonderful resource for writers who want to enter that market. 
-Find them at http:// www.project 2061.org.
+The project is creating a coordinated set of reform tools and services—books, CD-ROMS, online resources, and workshops-to help educators work toward science literacy for all students, and is a wonderful resource for writers who want to enter that market. 
+Find them at <link>.
 
 The American Association for the Advancement of Science (AAAS) and MCI World Com offer lessons and Web resources organized around Project 2061 "Benchmarks for Science Literacy." They also provide the research that went into creating those benchmarks. 
-They are found at http://www.sciencenetlinks.com/index.html 
+They are found at <link> 
 
 National Science Education Standards have been developed by the National Research Council. 
-The National Academy Press has the full text of these standards online at http://stills.nap.edu/html/nses.
+The National Academy Press has the full text of these standards online at <link>
 
 The National Council for Geographic Education (NCGE) has created a program called "Geography for Life." It is the final report of the Geography Education Standards Project, which was funded through the NCGE by the U.S. 
 Department of Education, the National Endowment for the Humanities, and the National Geographic Society. 
-"Geography for Life" provides a set of guidelines for what students should know, and be able to do, by the end of grades 4 and 8. 
-The URL is http://www.ncge.org/publications/tutorial/.
+"Geography for Life" provides a set of guidelines for what students should know, and be able to do, by the end of grades 4 and 8. The URL is <link>
 
 Content for the Study of Technology was created by the International Technology Education Association. 
 They try to provide the basics of what every student needs to know about technology and what they should be able to do with it. 
 They provide an organizational framework for an articulated program in technology from grades K-12 and a structure for teaching technology that can withstand the accelerating changes in our technological environment. 
-Their "Standards for Technological Literacy: Content for the Study of Technology" can be found at http://www.iteawww.org/TAA/TAA.html
+Their "Standards for Technological Literacy: Content for the Study of Technology" can be found at <link>
 
 The same group has developed National Educational Technology Standards (NETS). 
 The primary goal of NETS is to enable those who write for or work with pre-K-12 education to have national standards for the educational uses of technology. 
 The NETS project is working to integrate curriculum technology into the wider world of education. 
 Though a work in progress at this time, the site will be of increasing use over the next several years. 
-It is located at http://cnets.iste.org/.
+It is located at <link>
 
 Mathematics 
 
-The National Council of Teachers of Mathematics Principles and Standards for School Mathematics" was released in 2000. 
-The electronic version of the latest standards is available online. 
-The document is designed to establish a broad framework to guide reform in school mathematics in the next decade for pre-K through grade 12. 
-Find them at http://standards-e.nctm.org. 
-For vignettes and lessons that help explicate the new standards, see the Illuminations Web site, published by NCTM and MCI Worldcom, at http:// illuminations.nctm.org/
+The National Council of Teachers of Mathematics Principles and Standards for School Mathematics" was released in 2000. The electronic version of the latest standards is available online. 
+The document is designed to establish a broad framework to guide reform in school mathematics in the next decade for pre-K through grade 12. Find them at <link> 
+For vignettes and lessons that help explicate the new standards, see the Illuminations Web site, published by NCTM and MCI Worldcom, at <link>
 
 Other Resources
 
-The Council of Chief State School Officers (CCSSO) has made the full text of Key State Policies on K-12 Education available through searching http://www.ccsso.org/publications/index.cfm?init=1. 
-Other publications that may be of interest through this site include "Alignment of Science and Mathematics Standards and Assessments in Four States."
+The Council of Chief State School Officers (CCSSO) has made the full text of Key State Policies on K-12 Education available through searching <link> Other publications that may be of interest through this site include "Alignment of Science and Mathematics Standards and Assessments in Four States."
 
-A Compendium of Standards and Benchmarks for K-12 Education is available at http://198.17.205.11/standards-benchmarks/
+A Compendium of Standards and Benchmarks for K-12 Education is available at <link>
 
 Each U.S. 
 state has a department of education. 
 Contact information and Web sites for each state and most territories are listed in the back of this book, in the Resources section. 
 Many of the states and territories have standards and benchmarks online. 
 Virtually all the online materials can be found by searching within the Web sites for standards, benchmarks, framework, or course of study. 
-You can also find hotlinks to each state's education Web site online at http://www.census.gov/mso/www/educate/agencies.htm.
+You can also find hotlinks to each state's education Web site online at <link>
 
 Footnote
 
 One survey in Southern California showed as many as fifty separate languages were spoken as primary, or first, languages by students in a single school district.
 
 KINDERGARTEN
-============
 
-### Social Changes.
+
+ Social Changes.
 
 At one time, kindergarten was considered primarily a socialization process. 
 Those days are gone. 
@@ -803,7 +682,7 @@ This makes read-it-yourself literature even more relevant than before.
 There are also new subjects introduced at the earliest ages. 
 While actual lessons on space exploration and ecology currently wait until second or third grade, the concepts are introduced here, and one should expect these subjects to be introduced formally in the future at even younger ages.
 
-### In the Classroom.
+ In the Classroom.
 
 Because of the ever-growing number of kindergartners who have attended preschool, some are able to read materials previously considered appropriate for first to third graders. 
 Health education begins, or continues, in kindergarten. 
@@ -824,7 +703,7 @@ For example, the brontosaurus is now generally accepted as not having really liv
 Brontosaurus is actually just an Apatosaurus, whose head was replaced with the wrong skull. 
 Cooking is often used in the same way and provides hands-on experience that can lend extra dimensions to classroom learning. 
 
-### Specific Vocabulary Development.
+ Specific Vocabulary Development.
 
 The kindergarten student's vocabulary centers around one-syllable words, under six letters. 
 The numbers one to ten and the primary colors are introduced in kindergarten. 
@@ -836,7 +715,7 @@ The animals most commonly introduced at the kindergarten level are included in t
 Groups of animals and plants are particularly flexible. 
 Please see the first- through third-grade lists for other animals that are introduced at the earliest levels.
 
-### Publishing.
+ Publishing.
 
 Schools primarily use picture books and magazines, which traditionally address the two- to eight-year-old child. 
 Picture stories are also good for this group, although traditionally meant for the first- to third-grade child. 
@@ -858,7 +737,7 @@ Stories about other holidays that take into account our nation's cultural divers
 You may find Chinese New Year, Chanukah, and Kwanzaa have little or no competition in the marketplace, yet they provide a healthy market for the children's writer and excellent formats for creative writing exercises in class. 
 Magazines, book publishers, and even newspapers often look for holiday material for children, and it's easier to sell stories about holidays that get less media coverage than Christmas and Easter. 
 
-### Writing Samples.
+ Writing Samples.
 
 The following is a picture story meant for the adult to read to the kindergarten child. 
 The dots indicate a picture or a page break and each of the ideas would be illustrated.
@@ -938,7 +817,7 @@ Short sentences or idea phases are less daunting to a young reader.
 It gives them a feeling of accomplishment to finish a sentence unit and understand it.
 
 FIRST GRADE  
-=============
+
 
 Unlike the middle of the last century, children are now encouraged to use their imagination in many areas, including reading. 
 One of the first things reading programs now encourage children to do is to use mental images based on both the pictures and printed word to help young readers understand the text. 
@@ -947,11 +826,11 @@ In a related strategy, they are expected to use the subject that they are readin
 When Word Book was first published, phonics was only one of several popular strategies for teaching reading to the youngest children. 
 As the new century takes off, phonics has returned to center stage, and children nationally are encouraged to sound words out using basic elements of phonetic analysis such as common letter combinations, letter sounds, and word patterns to figure out unknown words. 
 
-### Social Changes.
+ Social Changes.
 
 Although many first graders have been in all-day kindergarten, some are new to being away from home all day long, and all first graders are new to the sustained periods of concentration that are necessary in the first-grade classroom.
 
-### In the Classroom.
+ In the Classroom.
 
 While children learn the seasons and the numbers one to ten in kindergarten, the months, days of the week, and numbers over ten generally are introduced in first grade. 
 Almost all sports are introduced by name at this level. 
@@ -961,7 +840,7 @@ By the end of kindergarten, most children can sound out any three- or four-lette
 However, many of these words (such as eve or dim) are introduced later since they are somewhat abstract. 
 (If a word seems overly sophisticated for your young audience, check the word list or the thesaurus sections in this book; the words listed there are taken from publishers' graded material.) 
 
-### Specific Vocabulary Development.
+ Specific Vocabulary Development.
 
 The prefix un is introduced for the simplest of words such as unhappy, unfit, or undo. 
 The suffix ing is also introduced, and words such as fishing, walking, and reading are common. 
@@ -974,7 +853,7 @@ Contractions such as I'd, I'll, I'm, I've, we're, can't, and won't are introduce
 The most commonly used compound words, such as classroom and grandmother, are introduced in first grade, but many schools wait until second grade even if the individual words are understood by the child. 
 The key seems to be how familiar the reader is with the concept and how often the word is used in their everyday lives. 
 
-### Publishing.
+ Publishing.
 
 The optimal sentence length is still around five to six words. 
 However, as with all writing, length should vary throughout your story. 
@@ -990,8 +869,7 @@ The vocabulary should be such that the child can easily understand it, but it is
 
 There is a much larger periodical market for the primary group than there is for the very beginning reader. 
 Very short articles or stories, known as fillers, are popular in magazines. 
-These fillers are usually under 500 words and often under 100. 
-One editor told me that "if you can make brushing your teeth fun, you can make a living the rest of your life." Games, riddles, and stories about good health habits, safety, science, and human interest pieces are especially welcome even in the most prestigious periodicals. 
+These fillers are usually under 500 words and often under 100. One editor told me that "if you can make brushing your teeth fun, you can make a living the rest of your life." Games, riddles, and stories about good health habits, safety, science, and human interest pieces are especially welcome even in the most prestigious periodicals. 
 
 As mentioned earlier, most sports are understood by name at this level and are especially popular in literacy books for older readers. 
 There is a great appetite for stories and nonfiction articles about everything from baseball to karate; however, the technical details and rules are not generally introduced until the reader achieves third-grade reading skills. 
@@ -1007,10 +885,10 @@ They primarily feature romance, sports, suspense, nonviolent mysteries, and othe
 They may also address such practical areas as working, social skills, and legal problems and how to solve them. 
 The vocabulary, length, and style guidelines are uniform for the level no matter who the end user. 
 
-### Writing Sample.
+ Writing Sample.
 
-The following story employs a popular subject--- ghosts---and a popular genre---mystery. 
-It also takes on a common "problem" for kids---moving. 
+The following story employs a popular subject— ghosts—and a popular genre—mystery. 
+It also takes on a common "problem" for kids—moving. 
 The sentences are within the ten-word limit, and the words are monosyllabic. 
 Another theme present is adaptation. 
 First graders adapt to full days of school work, and Tommy adapts to new surroundings:
@@ -1044,7 +922,7 @@ Tommy was the only one who did not want to live there. 
 The new house may be OK, too."
 
 SECOND GRADE  
-==============
+
 
 In the second and third grades, the smallest number of new words are added to a new reader's vocabulary. 
 The two grades together add the average number in each of the other grades. 
@@ -1054,12 +932,12 @@ That is still true of the most unusual types, but the most common, such as Stego
 Additionally, children are introduced to science, particularly biology and ecology. 
 Still, overall, this is a time to confirm skills and allow those who were not as ready to catch up. 
 
-### Social Changes.
+ Social Changes.
 
 One of the major changes common at this age is that most children have become less self-oriented than they were in kindergarten and even first grade. 
 As a result, they have stopped generalizing characters, and individual personalities have become important in stories.
 
-### In the Classroom.
+ In the Classroom.
 
 A beginning study of the solar system is often part of the second-grade curriculum. 
 The continents and the cardinal directions, north, south, east, and west, are generally taught in school, and there is usually some work with the world map.
@@ -1076,7 +954,7 @@ When including words that are not in the child's vocabulary, it is best to give 
 Readers tend to skip over unfamiliar words, getting the meaning from the context of the sentence. 
 Giving the definition first makes it much easier to learn the new word; for example, a large open plain in Africa is called a savanna. 
 
-### Specific Vocabulary Development.
+ Specific Vocabulary Development.
 
 While some of the most common compound words were introduced in first grade, far more are introduced in second grade. 
 At this point, any compound words that are made up of words the children already know may be used. 
@@ -1085,7 +963,7 @@ Some compound words in the word lists are listed at a higher grade level than wh
 These words are listed at the levels at which they were actually used in graded texts. 
 However, if the meaning is clear and the word is easily read, it can be used at a lower level.
 
-### Publishing.
+ Publishing.
 
 From this point on, the protagonist of your story should be at least the same age as, and preferably a little older than, the reader. 
 Since there are few illustrations in easy readers, you need to help your reader identify the characters and give her easy ways to remember each character. 
@@ -1104,8 +982,7 @@ Thus, it is easier to understand.
 The inexperienced reader also gets a sense of accomplishment in successfully finishing and understanding a sentence. 
 
 Most books run between 1,000 and 1,500 words. 
-The low end is 500 words, and the high end is 2,000. 
-Most magazines aimed at this age group use stories ranging from 300 to 500 words but welcome short pieces also. 
+The low end is 500 words, and the high end is 2,000. Most magazines aimed at this age group use stories ranging from 300 to 500 words but welcome short pieces also. 
 One thousand words is almost certain to be too long for a magazine. 
 Check your writer's guide lines or Children's Writer's and Illustrator's Market for individual length requirements; remember, publishers generally list the maximum number of words they want. 
 Second graders seem to be caught in the middle as far as books and magazines are concerned. 
@@ -1113,7 +990,7 @@ They are neither at the beginning nor at the end of a period.
 Their interests, reading skills, and egos sometimes make reading picture books unacceptable, and heavily illustrated picture stories are often overlooked because they seem too "babyish." Even though the vocabulary goes beyond second grade, at this point the young reader or easy-to-read book comes into its own. 
 The more adult presentation appeals to the seven- and eight-year-olds, and their reading skills are generally good enough that they no longer need the support provided by profuse illustrations. 
 
-### Writing Samples.
+ Writing Samples.
 
 The following story asks the young reader to use her imagination. 
 It also demonstrates how to introduce a new word, barnacle:
@@ -1135,7 +1012,7 @@ I think I like fish best.
 I would put them in my aquarium.
 
 THIRD GRADE  
-=============
+
 
 Ecology, which was introduced in a minor way in second grade, is now expanded. 
 The groups establishing national standards and benchmarks recommend including information on solid waste and recycling. 
@@ -1162,14 +1039,14 @@ Space, new types of transportation, and a world of future science are also intro
 Science fiction stories as a genre once waited for fourth or fifth grade, but are now welcome. 
 The stories should be based on what we can expect in a real future and should explain what things like rotocars are or how they work. 
 
-### Social Changes.
+ Social Changes.
 
 Third graders begin identifying themselves with the world around them through attachments to objects such as toys. 
 They begin to clearly prefer one thing to another. 
 It is just this discovery of taste preferences that creates devoted fans. 
 Whether it's Star Wars or the Little Mermaid, eight- and nine-year-old third graders are prime markets for toy manufacturers.
 
-### In the Classroom.
+ In the Classroom.
 
 Health, drug, and sex education are started early throughout the United States, and antidrug messages are often a part of the third-grade curriculum. 
 In our culture, the word drug has generally taken on the connotation of being a narcotic or other controlled substance. 
@@ -1188,7 +1065,7 @@ The only corpses generally are mummies that lend a safely creepy atmosphere to a
 For your youngest readers, such as those for this age, think about centering your mysteries on missing treasure or legends and secrets. 
 Mysteries can actually hone academic skills in an entertaining way by acting as elaborate puzzles the reader must solve. 
 
-### Specific Vocabulary Development.
+ Specific Vocabulary Development.
 
 The prefixes dis, ex, and re are added at this level. 
 For example, disable, disadvantage, disallow, redo, reset, or any other word already introduced may be used with these prefixes.
@@ -1201,7 +1078,7 @@ You may use the name of almost any body part at this level.
 Ankles, knees, shoulders, and even abdomen join the simpler head, arms, and legs previously introduced. 
 Individual bones and muscles are not understood yet. 
 
-### Publishing.
+ Publishing.
 
 By third grade, children have reached the end of the primary reading level. 
 They have some experience both reading and choosing books and are beginning to have a good idea of what type of story they like to read.
@@ -1216,7 +1093,7 @@ Commercial rights cover the use of your story or characters for toys, posters, m
 It doesn't happen often, but there are enough Sponge Bob, Elmo, and Batman t-shirts out there to make one hopeful. 
 If you have not reserved commercial rights, all contracts for such items will go through your publisher, no matter how little they seem to resemble your book. 
 
-### Writing Samples.
+ Writing Samples.
 
 The following writing sample demonstrates how to introduce words not in the vocabulary: 
 
@@ -1238,9 +1115,9 @@ Maria knew that they could make sweet rolls called pan dulces.
 And they could even make cookies and cakes!
 
 FOURTH GRADE  
-==============
 
-### Social Changes.
+
+ Social Changes.
 
 Fourth grade is a turning point in a child's development. 
 Fourth graders are more independent and self-reliant. 
@@ -1252,7 +1129,7 @@ Series books became popular in third grade because they give the reader confiden
 In fourth grade, children often read simply for the pleasure of reading, whether they are adventure stories, mysteries, legends, or science fiction. 
 Children often follow specific authors, such as Judy Blume, and buy book after book in a series such as Harry Potter or the Babysitters Club. 
 
-### In the Classroom.
+ In the Classroom.
 
 Fourth grade now covers much, if not most, of the new technology that has developed over the past ten years: digital equipment, new communication systems, smart houses, and the cyber-world. 
 Thus, you will find some words that were previously listed as fifth or sixth grade words used at this level. 
@@ -1283,7 +1160,7 @@ Words pertaining to foods, cooking, and measurements are introduced by this leve
 Children often make cookies or holiday foods in earlier grades, but now cooking is integrated with mathematics and sociology. 
 Multicultural festivals at schools often attempt to pull together a great variety of skills in a creative, exciting way. 
 
-### Publishing.
+ Publishing.
 
 Whether it's space, videogames, or babysitting, both fiction and nonfiction for this age should deal with the special interests and problems of the eight- to twelve-year-old age group. 
 Most books now range between 20,000 and 40,000 words. 
@@ -1294,7 +1171,7 @@ Even if it's not required, you should not go too far beyond twenty words at a st
 Almost all children are still reading one word at a time at this level, and they can actually forget the subject being talked about in a long sentence. 
 
 Be careful of using localized terminology, such as specific wildlife or customs unique to an area. 
-For example, I once wrote a story on lighter-than-air vehicles---blimps to us old guys. 
+For example, I once wrote a story on lighter-than-air vehicles—blimps to us old guys. 
 I described an exciting new airship as looking "like a beach ball being carried on the back of a manta ray." My editor thought the description was too localized and kids in the Midwest wouldn't know what a manta ray was. 
 We finally decided to say it looked "like a baseball with a handle attached." 
 
@@ -1323,7 +1200,7 @@ Do not submit a bibliography with a manuscript written for a periodical unless y
 The Children's Writer's and Illustrator's Market listings sometimes note if one is necessary. 
 When writing a nonfiction book, reference material should be cited.
 
-### Writing Samples.
+ Writing Samples.
 
 The following excerpt demonstrates the fourth grader's new interest in nonfiction and world events:
 
@@ -1351,9 +1228,9 @@ Eighty-eight picnic tables made one fence length.
 The kids made about one fence length, or one-tenth of a mile, each day.
 
 FIFTH GRADE  
-=============
 
-### Social Changes.
+
+ Social Changes.
 
 New studies have shown that many children who have been struggling with reading until now break through in fifth grade. 
 For example, about 60 percent of children in the study who had dyslexia and were typically reading at a second-grade level at the beginning of the year jumped to tenth- or twelfth-grade level by the end of the year. 
@@ -1412,7 +1289,7 @@ Unimportant until recently, they include the possibility of your work being incl
 Some publishers are beginning to sell material only via electronic marketing. 
 To find these publishers, look under the syndicates listing in Writer's Market. 
 
-### Writing Samples.
+ Writing Samples.
 
 The following excerpt illustrates the technique of sneaking in a history lesson while actually telling a nonfiction story:
 
@@ -1432,9 +1309,9 @@ Even in the south, where there is lots of water, there are only a few place name
 Most of the "towns" shown are really only ranches where you can get some rest.
 
 SIXTH GRADE AND MIDDLE SCHOOL  
-===============================
 
-### Social Changes.
+
+ Social Changes.
 
 Sixth grade is now commonly combined with seventh and eighth grades, or even ninth grade, to create a middle school. 
 Most middle school students are preteens or young teenagers whose egos depend on being seen as that and not as children. 
@@ -1446,7 +1323,7 @@ Drunkenness should not be portrayed as humorous. 
 Because of their own changes, the readers are usually very aware of their appearance and, subsequently, how characters in stories look. 
 Description is not only acceptable, it's desired. 
 
-### In the Classroom.
+ In the Classroom.
 
 If they haven't already done so, most sixth-grade students are now required to memorize the states, their capitals, and their major economic contributions.
 
@@ -1454,7 +1331,7 @@ Overall, difficult subjects such as death and divorce are often dealt with at th
 Sixth grade also includes sex and health education. 
 As a result, both in-school and leisure reading materials are often problem oriented. 
 
-### Publishing.
+ Publishing.
 
 Easy-reading books (also called hi-lo for high interest, low reading) begin to appear at this level. 
 Most children now have a fairly sophisticated reading vocabulary, and the low achiever has begun to slip between the cracks. 
@@ -1479,7 +1356,7 @@ Others in the middle school group want to know how a character dresses, what kin
 Do be careful when you describe your characters not to make them too much a part of a popular fad either in dress or in speech. 
 Fads pass quickly, and your book may follow if the reader sees it as "too last year." 
 
-### Writing Samples.
+ Writing Samples.
 
 The following example shows the increased description present in stories for this age group. 
 Not only do readers now have longer attention spans, they want descriptive details and like to know how characters look:
