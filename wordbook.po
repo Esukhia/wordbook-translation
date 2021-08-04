@@ -8,8 +8,8 @@ msgstr " Children's Writer's Word Book"
 msgid "SOME THINGS YOU'LL NEED TO KNOWÂ "
 msgstr "SOME THINGS YOU'LL NEED TO KNOWÂ "
 
-msgid "MORE ON WORDS AND LANGUAGE:"
-msgstr "MORE ON WORDS AND LANGUAGE:"
+msgid "MORE ON WORDS AND LANGUAGE"
+msgstr "MORE ON WORDS AND LANGUAGE"
 
 msgid " Unusual Words"
 msgstr " Unusual Words"
