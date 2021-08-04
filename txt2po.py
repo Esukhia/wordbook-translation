@@ -20,6 +20,7 @@ def create_po(infile, outfile):
     for sent in sents:
         entry = polib.POEntry(
                 # other arguments are: msgid, msgid, msgtxt, comment, tcomment            
+                msgid=sent,
                 msgstr=sent
             )
         po.append(entry)
