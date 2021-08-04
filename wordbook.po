@@ -1,0 +1,4343 @@
+#
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr " Children's Writer's Word Book"
+
+msgid ""
+msgstr "SOME THINGS YOU'LL NEED TO KNOWÂ "
+
+msgid ""
+msgstr "MORE ON WORDS AND LANGUAGEÂ Â "
+
+msgid ""
+msgstr " Unusual Words"
+
+msgid ""
+msgstr ""
+"To introduce words not in the child's standard vocabularyâ€”foreign words, "
+"for exampleâ€”if it is possible, give the definition first, then the word. "
+
+msgid ""
+msgstr ""
+"It is also common practice to underline the word the first time it is used. "
+
+msgid ""
+msgstr ""
+"Readers of any age tend to skip over unfamiliar words without trying to read"
+" them, getting the meaning from the context of the sentence. "
+
+msgid ""
+msgstr ""
+"Giving the definition first makes it much easier to actually learn the new "
+"word.Â "
+
+msgid ""
+msgstr " Names."
+
+msgid ""
+msgstr "Nicknames for your characters can be highly desirable. "
+
+msgid ""
+msgstr ""
+"They can help describe someone's personality or appearance with little or no"
+" exposition: \"Hey, Red, come here!\" \"Go get Pokey so we can get "
+"started.\" "
+
+msgid ""
+msgstr ""
+"They can also set the mood as hostile or friendly or describe the cultural "
+"set of an era or a nation. "
+
+msgid ""
+msgstr ""
+"They are also excellent \"tags\" that help your reader remember or identify "
+"a character. "
+
+msgid ""
+msgstr ""
+"Unless it is important to the story, avoid connecting words like tiny, "
+"little, bitty, and small to the names of your protagonists. "
+
+msgid ""
+msgstr "The tiny of Tiny Tim is central to the character and his problem. "
+
+msgid ""
+msgstr ""
+"Believe me, Little Leroy and Bitsy Betty have problems, too, whether you "
+"intended them or not. "
+
+msgid ""
+msgstr ""
+"Psychologically, the diminutive name takes away personal power and "
+"emasculates. "
+
+msgid ""
+msgstr "Even names like Jimmy or Billy fall into this cabinet."
+
+msgid ""
+msgstr " Nonsexist and Nonracist Terminology."
+
+msgid ""
+msgstr ""
+"It is good to use generic terminology instead of words that express gender "
+"bias. "
+
+msgid ""
+msgstr ""
+"For example, use mail carrier instead of mailman, and carry that principle "
+"to all occupations or positions that end with man. "
+
+msgid ""
+msgstr "Other things to look out for are usage of the pronoun he. "
+
+msgid ""
+msgstr ""
+"Even though it is proper to use the masculine pronoun, try to vary it. "
+
+msgid ""
+msgstr "You can also use the plural they or the neutral third person you. "
+
+msgid ""
+msgstr ""
+"Both are widely used today to avoid more awkward constructions such as "
+"he/she. "
+
+msgid ""
+msgstr ""
+"Another area to avoid in nonsexist writing is stereotypical roles, such as "
+"exclusively male doctors and exclusively female nurses in a hospital "
+"setting. "
+
+msgid ""
+msgstr ""
+"Women and men should be treated the same in all types of stories, as should "
+"boys and girls. "
+
+msgid ""
+msgstr "Again, stay away from stereotyping."
+
+msgid ""
+msgstr " Diversity."
+
+msgid ""
+msgstr ""
+"Race, religion, and physical abilities are other areas where you should be "
+"sensitive to word usage. "
+
+msgid ""
+msgstr ""
+"Use African American or of African heritage instead of black, and Native "
+"American instead of Indian. "
+
+msgid ""
+msgstr ""
+"Asian American is preferable to Oriental; not all Muslims are Arabs; not all"
+" Arabs are Muslim; Hispanics are from the Americas, while Latinos are from "
+"any place that speaks Spanish. "
+
+msgid ""
+msgstr ""
+"You get the idea; be sensitive, especially to offensive terminology, and "
+"seek out an authority when in doubt. "
+
+msgid ""
+msgstr ""
+"Children enjoy reading about people like themselves, so it's good to have "
+"characters with diverse backgrounds. "
+
+msgid ""
+msgstr ""
+"As noted in the introduction, ethnic, cultural pride, and bilingual books, "
+"as well as books with disabled characters, have increased in number though "
+"they do not yet constitute a large percentage of the publishing world for "
+"juvenile readers. "
+
+msgid ""
+msgstr ""
+"With the tremendous strides the world has taken toward globalization, "
+"diversity has become an important part of juvenile literature, and I expect "
+"this to grow dramatically in the next few years. "
+
+msgid ""
+msgstr "Tags. "
+
+msgid ""
+msgstr "An editor may suggest you use a tag to help identify a character. "
+
+msgid ""
+msgstr ""
+"Tags are actions or gestures a character typically uses that easily identify"
+" the person to the reader. "
+
+msgid ""
+msgstr ""
+"A boy may toss his head when he gossips, a young girl may push up her "
+"glasses just before she throws a fast pitch. "
+
+msgid ""
+msgstr ""
+"The tag may be used to build a character, be part of the problem, or "
+"identify a \"mystery\" person. "
+
+msgid ""
+msgstr ""
+"For example, a boy may try to hide in the bushes or shadow a suspect while "
+"humming the song he always hums or sniffing a chronically runny nose. "
+
+msgid ""
+msgstr ""
+"As noted before, nicknames are another good tag you can use to help describe"
+" a character."
+
+msgid ""
+msgstr "THEME AND CONTENTÂ Â "
+
+msgid ""
+msgstr " Character's Ages."
+
+msgid ""
+msgstr ""
+"The protagonist(s) of your story should be the same age as or a little older"
+" than the reader. "
+
+msgid ""
+msgstr ""
+"Establish the age of the protagonist as soon as possible, and make sure your"
+" characters act appropriately for their ages."
+
+msgid ""
+msgstr " Taboos."
+
+msgid ""
+msgstr ""
+"While the market is much more flexible than in the past, stay away from any "
+"positive portrayal of drugs, tobacco, alcohol, explicit sex, crime, and "
+"violence. "
+
+msgid ""
+msgstr ""
+"Drunkenness particularly should never be portrayed in a humorous light. "
+
+msgid ""
+msgstr ""
+"You will find certain themes, while not actually taboo, difficult to sell. "
+
+msgid ""
+msgstr ""
+"Animals that talk to people are almost impossible to sellâ€”even as fantasy."
+" "
+
+msgid ""
+msgstr ""
+"'Lil Toot and The Little Engine That Could aside, anthropomorphizing "
+"inanimate objects also makes for a difficult sale. "
+
+msgid ""
+msgstr ""
+"Stories that turn out to be only a dream are not often welcome, especially "
+"if waking up is used to solve a plot problem. "
+
+msgid ""
+msgstr ""
+"Things that are too cute, too old-fashioned, or too common usually get the "
+"cold shoulder, too.Â "
+
+msgid ""
+msgstr "One of those not-taboo-but subjects is weight. "
+
+msgid ""
+msgstr ""
+"There is currently a medical, political, and social focus on overweight "
+"children and youth that promises to have a very real impact on our culture. "
+
+msgid ""
+msgstr ""
+"At the same time, eating disorders are a very real issue, especially with "
+"preteens and early teens. "
+
+msgid ""
+msgstr ""
+"As a result, the subject of weight should be handled carefullyâ€”especially "
+"if it is not the focus of the story or book you are writing."
+
+msgid ""
+msgstr " Fantasy and Fairy Stories."
+
+msgid ""
+msgstr "Fantasy is a healthy field for juvenile publishing. "
+
+msgid ""
+msgstr ""
+"However, retelling such classics as Thumbelina or The Goose Girl in modern "
+"dress is sure to garner rejection slips instead of praise. "
+
+msgid ""
+msgstr ""
+"If you are tempted to begin your story \"Once upon a time,\" you should "
+"probably think about how it will fit in your target publisher's list."
+
+msgid ""
+msgstr " Mystery."
+
+msgid ""
+msgstr "There is a great difference between adult and children's mysteries. "
+
+msgid ""
+msgstr "Violence is generally out for any age group. "
+
+msgid ""
+msgstr "For preteen readers, murder is out, and so are most dead bodies. "
+
+msgid ""
+msgstr ""
+"The only corpses are generally ancient mummies that lend a creepy mood to a "
+"story. "
+
+msgid ""
+msgstr ""
+"Missing treasure, old legends and secrets, theft, and even kidnapping have "
+"formed the core of wonderful juvenile mysteries. "
+
+msgid ""
+msgstr ""
+"Many mystery books are elaborate puzzles the reader is meant to solve.Â "
+
+msgid ""
+msgstr " Science Fiction."
+
+msgid ""
+msgstr ""
+"Science fiction becomes popular around fourth or fifth grade when it is a "
+"venue for fast-paced adventure. "
+
+msgid ""
+msgstr ""
+"With science making headlines daily and subjects such as space and ecology "
+"entering the standard curriculum by second or third grade, science fiction "
+"stories may well find a home in even younger markets. "
+
+msgid ""
+msgstr "By the sixth grade, character development becomes important. "
+
+msgid ""
+msgstr ""
+"Science fiction is often a pleasant and charming way of explaining science "
+"or giving facts, but make sure its primary goal is to entertain."
+
+msgid ""
+msgstr " Romance."
+
+msgid ""
+msgstr "Romance stories are popular with sixth graders on up. "
+
+msgid ""
+msgstr ""
+"Contemporary stories often include urban themes such as gangs, alcohol, and "
+"sex. "
+
+msgid ""
+msgstr ""
+"Today's teens are dealing with some serious situations, and books and "
+"stories that accurately reflect their world are popular. "
+
+msgid ""
+msgstr "Nonfiction. "
+
+msgid ""
+msgstr ""
+"Nonfiction is popular with readers in the elementary level, and stories in "
+"trade books and magazines are often used in the classroom. "
+
+msgid ""
+msgstr ""
+"Stories about scientific phenomena, the environment, history, and technology"
+" interest every age group but the very youngest. "
+
+msgid ""
+msgstr ""
+"Current events and how-to books are welcome at the elementary and high "
+"school level. "
+
+msgid ""
+msgstr "Problem-Oriented Stories. "
+
+msgid ""
+msgstr ""
+"Issues such as divorce and death (usually the death of a pet) are now being "
+"introduced in the first three years instead of, as when this book was first "
+"published, the fifth or sixth grade. "
+
+msgid ""
+msgstr ""
+"These issues must be handled carefully, but they open up new markets for "
+"stories that deal with the modern child's reality."
+
+msgid ""
+msgstr "AGE GROUPS AND READING LEVELSÂ "
+
+msgid ""
+msgstr ""
+"This section covers the age groupings and categories of books that "
+"publishers recognize. "
+
+msgid ""
+msgstr "First, let's discuss the age groups.Â "
+
+msgid ""
+msgstr " Level Books."
+
+msgid ""
+msgstr ""
+"Many books are now indicated by levels rather than by specific grades. "
+
+msgid ""
+msgstr ""
+"For example, Level 1 is generally used for kindergarten through second "
+"grade. "
+
+msgid ""
+msgstr ""
+"This three-grade spread recognizes that there is a wide range of normal "
+"abilities among students. "
+
+msgid ""
+msgstr ""
+"The vocabulary used for the level is the middle one, in this case, first "
+"grade. "
+
+msgid ""
+msgstr ""
+"Many children are ahead or behind the usual target vocabularies for grade "
+"and age, and level books allow the students to use materials that are "
+"appropriate for them without some of the social issues involved with reading"
+" material identified as being for a grade different from the one the student"
+" is in."
+
+msgid ""
+msgstr " Preschool to Kindergarten."
+
+msgid ""
+msgstr ""
+"Preschool books that are self-readers constitute a much larger market than "
+"in the past. "
+
+msgid ""
+msgstr ""
+"Early childhood education is a major focus of both state and national "
+"educational programs, and reading is a primary focus. "
+
+msgid ""
+msgstr ""
+"Picture books and picture stories are the primary forms for school and home."
+" "
+
+msgid ""
+msgstr ""
+"As a result, the story that is meant to be read by a caregiver to the child,"
+" and is not appropriate as a self-reader as well, has become less common. "
+
+msgid ""
+msgstr ""
+"While the most common sentence length for self-readers at this level is "
+"still about six words, some publishers now use longer sentences (up to "
+"fifteen words) for even these youngest readers. "
+
+msgid ""
+msgstr ""
+"To do this, they break the sentences into smaller phrases that generally "
+"express a whole idea like the writing sample in the kindergarten section:"
+
+msgid ""
+msgstr "He ran after the kittenÂ "
+
+msgid ""
+msgstr "when it came into the room.Â "
+
+msgid ""
+msgstr " The Primary Age Group."
+
+msgid ""
+msgstr ""
+"This group, which includes children from six- to eight-years-old, or first "
+"through third grades, reads the picture book, picture story, and easy-to-"
+"read book. "
+
+msgid ""
+msgstr "More magazines are aimed at this age group than at younger children. "
+
+msgid ""
+msgstr ""
+"The easy reader is meant for the child to read alone, and the target "
+"sentence length is five to six words, ten words maximum. "
+
+msgid ""
+msgstr ""
+"All the words given in the kindergarten through third-grade word lists are "
+"appropriate to use when writing for this group. "
+
+msgid ""
+msgstr ""
+"There is some movement toward taking the chapter book concept, in very short"
+" chapters, to grades one and two rather than waiting until level three or "
+"third grade, as is most common."
+
+msgid ""
+msgstr " The Elementary Level."
+
+msgid ""
+msgstr ""
+"Traditionally this has included the eight- to twelve-year-olds, or the "
+"fourth through sixth graders. "
+
+msgid ""
+msgstr ""
+"More and more often this now is used to identify third through fifth grade, "
+"or seven- through ten- or eleven-year olds. "
+
+msgid ""
+msgstr "The target sentence length here is ten words. "
+
+msgid ""
+msgstr ""
+"The longest length acceptable to conservative institutions is about twenty "
+"words. "
+
+msgid ""
+msgstr "Sentence length is more flexible in books than in magazines. "
+
+msgid ""
+msgstr ""
+"Fiction should have a lot of action, and both fiction and nonfiction should "
+"deal with the special interests and problems relevant to this age group. "
+
+msgid ""
+msgstr ""
+"Most books written for this age group range between 20,000 and 40,000 words."
+" "
+
+msgid ""
+msgstr ""
+"Most magazines use stories ranging from 700 to 2,000 words and often have a "
+"page or two of short-shorts under 100 words."
+
+msgid ""
+msgstr " Middle School Through High School."
+
+msgid ""
+msgstr ""
+"Middle school, a new addition to this book, includes the sixth through "
+"eighth grades. "
+
+msgid ""
+msgstr ""
+"The two groups, middle school and high school, include twelve- to eighteen-"
+"year-olds. "
+
+msgid ""
+msgstr ""
+"Sixth graders, or twelve-year-olds, always constituted a major portion of "
+"the readership. "
+
+msgid ""
+msgstr ""
+"This is the time when reading problems often become serious problems. "
+
+msgid ""
+msgstr ""
+"Hi-lo books (for high interest, low reading level) and other materials meant"
+" to help the student catch up to grade level are introduced here. "
+
+msgid ""
+msgstr ""
+"Regular texts that are not in the hi-lo grouping use an adult vocabulary and"
+" sentence structure. "
+
+msgid ""
+msgstr ""
+"Most books range from 25,000 to 55,000 words, and longer lengths are "
+"permissible. "
+
+msgid ""
+msgstr ""
+"Popular fiction subjects include romance, mystery, suspense (mild horror), "
+"the supernatural, and humor. "
+
+msgid ""
+msgstr "More magazines are aimed at this age group than at any other. "
+
+msgid ""
+msgstr "Magazine stories range from 1,000 to 3,500 words. "
+
+msgid ""
+msgstr ""
+"Eighty percent of this market is nonfiction and include age-related "
+"problems, interviews, and special interests."
+
+msgid ""
+msgstr "WHAT KIND OF BOOK IS IT?"
+
+msgid ""
+msgstr ""
+"The terms that follow are commonly used by publishers to describe the "
+"different types of children's books.Â "
+
+msgid ""
+msgstr " Picture Books."
+
+msgid ""
+msgstr "There are basically three types of picture books. "
+
+msgid ""
+msgstr ""
+"The first type of picture book is for babies to three-year-olds, has little "
+"text, and is often prepared by publishers in-house. "
+
+msgid ""
+msgstr "The next type is for toddlers to five-year-olds. "
+
+msgid ""
+msgstr ""
+"The picture books must be kept short enough to be read aloud by an adult to "
+"a child at one sitting. "
+
+msgid ""
+msgstr ""
+"They should have a happy ending and must use language that can be read aloud"
+" comfortably. "
+
+msgid ""
+msgstr "Sentence length should also be determined by reading ease. "
+
+msgid ""
+msgstr ""
+"If the book is meant to be an early self-reader, the target sentence length "
+"should be five to six words, and each page should lend itself to "
+"illustration that will help carry the story. "
+
+msgid ""
+msgstr "Try to use mainly kindergarten and first-grade vocabulary. "
+
+msgid ""
+msgstr "These books should take no more than twenty minutes to read."
+
+msgid ""
+msgstr ""
+"The oldest group of picture book readers is for the five- to eight-year-"
+"olds. "
+
+msgid ""
+msgstr "These books must have a story to tell. "
+
+msgid ""
+msgstr "They should have a beginning, a middle, and an end. "
+
+msgid ""
+msgstr "There should be a plot, but it should be simple. "
+
+msgid ""
+msgstr ""
+"Children in this age group still like to be read to, and rhythm keeps them "
+"attentive. "
+
+msgid ""
+msgstr ""
+"Picture books may run from as few as 50 words to 1,500. Most picture books "
+"average 500 to 1,000 words. "
+
+msgid ""
+msgstr ""
+"Books for the youngest listeners (through five years old) should take no "
+"more than twenty minutes to read; ten to fifteen minutes is preferred. "
+
+msgid ""
+msgstr "Keep in mind the short attention span of the listener.Â "
+
+msgid ""
+msgstr " Picture Story."
+
+msgid ""
+msgstr ""
+"Picture stories are the picture books in which text carries the story. "
+
+msgid ""
+msgstr "These are for the five- to eight-year-old. "
+
+msgid ""
+msgstr "Picture stories tell a real story and have lots of action. "
+
+msgid ""
+msgstr ""
+"If it is written for an adult to read to a child, sentence length is "
+"restricted only to that which is comfortable to read aloud, and the "
+"vocabulary should be such that the child can understand it, rather than read"
+" it. "
+
+msgid ""
+msgstr ""
+"The picture story is still heavily illustrated but has a more complicated "
+"plot than a picture book."
+
+msgid ""
+msgstr "Easy-to-Read Books (also known as young readers). "
+
+msgid ""
+msgstr "These books are intended for ages six to nine (grades one to three). "
+
+msgid ""
+msgstr ""
+"Manuscripts are 500 to 2,000 words, with 1,000 to 1,500 words preferred. "
+
+msgid ""
+msgstr "These books generally have about forty pages of text. "
+
+msgid ""
+msgstr ""
+"Sentences should be five to six words in length, with a few up to eight "
+"words. "
+
+msgid ""
+msgstr ""
+"When putting your story together, try not to break up phrases between lines."
+" "
+
+msgid ""
+msgstr ""
+"To make sure that you haven't done this and that your story is easy to read,"
+" read it out loud a few times. "
+
+msgid ""
+msgstr ""
+"These books are for the child to read alone; if your book is meant to be "
+"read by an adult to a child, notify the publisher when you submit it."
+
+msgid ""
+msgstr " Hi-Lo Books."
+
+msgid ""
+msgstr "The term hi-lo means high interest, low reading level. "
+
+msgid ""
+msgstr ""
+"These books are purchased mainly by schools and are written for people "
+"learning to read or those who are reading behind grade level. "
+
+msgid ""
+msgstr ""
+"They use a controlled vocabulary and a sentence length appropriate to the "
+"vocabulary level. "
+
+msgid ""
+msgstr "They use a lot of action and dialogue. "
+
+msgid ""
+msgstr ""
+"Romance, mystery, and heritage-based, culturally centered stories, as well "
+"as stories dealing with urban problems, are often welcome. "
+
+msgid ""
+msgstr "Most of these books run from 400 to 1,200 words.Â "
+
+msgid ""
+msgstr ""
+"Many publishers want hi-lo books or other graded books but do not supply the"
+" word lists. "
+
+msgid ""
+msgstr ""
+"It is here that the graded word lists in this book become invaluable. "
+
+msgid ""
+msgstr "Sentence length is about ten to twelve words. "
+
+msgid ""
+msgstr "Stories should be fast paced and have a tightly knit plot. "
+
+msgid ""
+msgstr ""
+"You can write a hi-lo book on the second-grade level, but the story must be "
+"mature in theme.Â "
+
+msgid ""
+msgstr " Young Adult Novels."
+
+msgid ""
+msgstr "These books are written for readers aged twelve to eighteen. "
+
+msgid ""
+msgstr ""
+"They are similar to mainstream novels except the protagonist is a teen or "
+"young adult, and the story is relevant to that age group."
+
+msgid ""
+msgstr "TECHNICAL ITEMS THAT HELP YOU SELLÂ Â "
+
+msgid ""
+msgstr " Word Count."
+
+msgid ""
+msgstr ""
+"One of the most common reasons magazines reject good manuscripts is the "
+"failure to include a word count at the top of the first page. "
+
+msgid ""
+msgstr ""
+"The use of computers with their varying type faces, sizes, and spacing has "
+"made even standard formulas for computing word count unreliable. "
+
+msgid ""
+msgstr ""
+"It may not matter with a one- or two-page piece, but editors are not going "
+"to sit and count the number of words in your work to see if it will fit "
+"their format."
+
+msgid ""
+msgstr " Standard Format."
+
+msgid ""
+msgstr ""
+"There are individuals at writers' conferences and some articles and books "
+"that encourage you to have your manuscript stand out by using colored paper "
+"or type. "
+
+msgid ""
+msgstr ""
+"Even more suggest that your manuscript should include the rights you are "
+"selling at the top of the first page or that it should include a copyright "
+"notice. "
+
+msgid ""
+msgstr "Virtually all these items mark the author as an amateur. "
+
+msgid ""
+msgstr ""
+"Manuscripts other than picture books should be double spaced on white paper "
+"with black ink using 12-point type in a standard font. "
+
+msgid ""
+msgstr ""
+"If there is no notice of the rights being sold, the author is offering first"
+" publication rights in English in North America. "
+
+msgid ""
+msgstr ""
+"Only if the author is offering something different should the subject of "
+"rights be broached, and then it should be explained in the cover letter. "
+
+msgid ""
+msgstr ""
+"Copyright is automatic in the United States and many other countries as "
+"well. "
+
+msgid ""
+msgstr "Picture Books. "
+
+msgid ""
+msgstr "The author needs to indicate each page of a picture book. "
+
+msgid ""
+msgstr ""
+"In other words, the author should make it obvious what text goes with which "
+"picture and that each page is separate. "
+
+msgid ""
+msgstr ""
+"The most practical way to do this is to give the line of text with three "
+"dots, or other obvious page maker, below it:"
+
+msgid ""
+msgstr "The San Diego Zoo has pandasÂ Â "
+
+msgid ""
+msgstr ""
+"That way, a number of pages can be shown on a single manuscript page.Â "
+
+msgid ""
+msgstr " Bibliographies."
+
+msgid ""
+msgstr ""
+"Occasionally children's periodicals ask writers to submit lists of reference"
+" material to support their facts. "
+
+msgid ""
+msgstr ""
+"Do keep track of your source material; do not submit it with your story "
+"until asked for it unless you know the periodical requires it. "
+
+msgid ""
+msgstr ""
+"Books are another matter; reference material should be cited with any work "
+"of nonfiction or fiction."
+
+msgid ""
+msgstr "OTHER TYPES OF WRITINGÂ Â "
+
+msgid ""
+msgstr "So far this book has primarily dealt with books. "
+
+msgid ""
+msgstr ""
+"A great many other markets are available to authors who write for children, "
+"including magazines, radio and television, and the legitimate stage.Â "
+
+msgid ""
+msgstr " Features."
+
+msgid ""
+msgstr ""
+"A feature is a newspaper or magazine story that allows emotional involvement"
+" or entertains as well as informs. "
+
+msgid ""
+msgstr ""
+"Such stories almost always make your audience feel something or want to do "
+"something. "
+
+msgid ""
+msgstr "Feature stories really come into their own at the elementary level. "
+
+msgid ""
+msgstr ""
+"Fourth-, fifth-, and sixth-grade magazines often use the feature story style"
+" to lend life to science, mathematics, and news stories. "
+
+msgid ""
+msgstr ""
+"Educational inserts in daily newspapers and special educational newspapers "
+"also use these kinds of stories."
+
+msgid ""
+msgstr " Fillers."
+
+msgid ""
+msgstr ""
+"A filler is a short article or storyâ€”usually under 500 words and often "
+"under 100. Fillers, such as games, riddles, and items of special scientific "
+"or human interest, are especially welcome in young children's periodicals. "
+
+msgid ""
+msgstr ""
+"In broadcasting, fillers are short, nonessential stories kept on hand in "
+"case a program runs short. "
+
+msgid ""
+msgstr ""
+"If you are helping to produce a children's television or radio news program,"
+" keep a number of these on hand and at the bottom of the reader's pile. "
+
+msgid ""
+msgstr ""
+"Trivia about such things as the world's largest pizza or the biggest pair of"
+" shoes is interesting and can be carried week after week until needed."
+
+msgid ""
+msgstr " Writing for Television."
+
+msgid ""
+msgstr ""
+"The existence of public-access cable television channels and the "
+"availability of reasonably priced videotaping equipment have created a "
+"variety of exciting opportunities for people throughout the country. "
+
+msgid ""
+msgstr ""
+"Even the smallest schools often videotape students presenting a weekly news "
+"report or original drama to be shown on these television channels or for use"
+" in the classroom."
+
+msgid ""
+msgstr ""
+"Television news and other productions that narrate silent videos the viewers"
+" are watching generally use a forty- to forty-five-space line for the "
+"script, typed in a double- or triple-spaced column down the right-hand side "
+"of the paper. "
+
+msgid ""
+msgstr ""
+"Common margin settings are thirty for the left margin and seventy for the "
+"right margin. "
+
+msgid ""
+msgstr ""
+"The placement allows the left side of the paper to be used to note what "
+"video accompanies the text. "
+
+msgid ""
+msgstr ""
+"Each forty-space line takes about two seconds of on-air time to read. "
+
+msgid ""
+msgstr ""
+"Triple spacing makes it easier for the reader to keep his place and the "
+"writer to edit the work.Â "
+
+msgid ""
+msgstr " Writing for Radio."
+
+msgid ""
+msgstr ""
+"Many schools now have their own FM radio broadcasting facilities or access "
+"to local college or commercial stations. "
+
+msgid ""
+msgstr ""
+"It's easy to produce material for this medium according to professional "
+"industry standards; and like so many other things, it's just as easy for the"
+" children to learn the correct format as any other. "
+
+msgid ""
+msgstr ""
+"Standard radio broadcast format uses a sixty-five-space line for typing. "
+
+msgid ""
+msgstr "This line length makes timing your stories easy. "
+
+msgid ""
+msgstr "Each group of sixteen lines takes about one minute to read aloud. "
+
+msgid ""
+msgstr "It is assumed it takes 3.75 seconds to read each line."
+
+msgid ""
+msgstr " Writing in Verse."
+
+msgid ""
+msgstr ""
+"Verse seems to be everywhere in children's publishing, yet it is sometimes "
+"very hard to sell. "
+
+msgid ""
+msgstr ""
+"One of the problems is that verse must sound good when read out loud, and it"
+" needs to be easy to read for an extended period. "
+
+msgid ""
+msgstr ""
+"Read your work into a tape recorder, have a friend read it to you, or take "
+"it to a writers' workshop. "
+
+msgid ""
+msgstr ""
+"If you stumble or have trouble reading it smoothly and easily, go back to "
+"work. "
+
+msgid ""
+msgstr ""
+"It is a lot easier to sell verse to a magazine because it is generally "
+"interspersed with other types of material. "
+
+msgid ""
+msgstr ""
+"A good track record publishing verse in magazines will make it easier to "
+"sell a book written the same way."
+
+msgid ""
+msgstr " Writing Plays."
+
+msgid ""
+msgstr ""
+"Children's plays can be written one of three ways: (1) with children as "
+"actors, (2) with adults as actors and children as the audience, and (3) with"
+" adults or teens as actors and young adults and teens as the audience. "
+
+msgid ""
+msgstr ""
+"For younger children, action is important, just as it is in other forms of "
+"children's writing. "
+
+msgid ""
+msgstr ""
+"As always, themes and protagonists must correlate with the intended "
+"audience."
+
+msgid ""
+msgstr "NATIONAL STANDARDS AND BENCHMARKSÂ Â "
+
+msgid ""
+msgstr ""
+"National standards and benchmarks have been created in a variety of fields. "
+
+msgid ""
+msgstr ""
+"The reading standards included here apply directly to your work and can help"
+" you not only sell your work to a broad audience but also help you identify "
+"some of the criteria on which your work may be judged. "
+
+msgid ""
+msgstr ""
+"These standards are also an excellent reference for both educators and "
+"people who home school. "
+
+msgid ""
+msgstr ""
+"There are also standards already in place for science, mathematics, "
+"technology, writing, and a wide variety of other subjects. "
+
+msgid ""
+msgstr ""
+"While those may well help you with your work, they are not appropriate to "
+"include here in full. "
+
+msgid ""
+msgstr ""
+"You will find a brief description of some resources to these areas following"
+" the reading and comprehension standards.Â "
+
+msgid ""
+msgstr "NATIONAL READING AND COMPREHENSION STANDARDSÂ Â "
+
+msgid ""
+msgstr ""
+"National reading and comprehension standards are grouped with several "
+"grades: K--2, 3--5, and 6--8. Grades 4--6 used to be grouped, but because of"
+" the popularity of middle schools, the sixth grade is now normally included "
+"with the older grades. "
+
+msgid ""
+msgstr ""
+"For a variety of reasons, ranging from multiple languages being spoken in a "
+"classroom to the impact of natural disasters (which cause stress and, often,"
+" interrupt education), reading comprehension testing shows that much of this"
+" middle school population struggles to understand materials traditionally "
+"targeted to the older elementary group.1 Thus, the learning period for "
+"traditional reading skills has been expanded to include middle schools, and "
+"many, if not most, reading comprehension materials and tests group middle "
+"school with at least sixth grade. "
+
+msgid ""
+msgstr ""
+"You will also find pre-k has been added due to the national effort for early"
+" childhood education. "
+
+msgid ""
+msgstr ""
+"These pre-k standards are more for comprehension and reading readiness than "
+"for reading itself. "
+
+msgid ""
+msgstr ""
+"Additionally, though kindergarten through second grades are grouped, you "
+"will find a separate kindergarten group specifically geared toward the "
+"youngest learners in the standard public school system. "
+
+msgid ""
+msgstr ""
+"It should be noted that the UK has developed very similar standards and "
+"benchmarks, and the American and British versions are virtually "
+"interchangeable.Â Â "
+
+msgid ""
+msgstr "PRE-KINDERGARTENÂ Â "
+
+msgid ""
+msgstr ""
+"National standards assume that, before entering kindergarten, a child will "
+"know the following skills:Â "
+
+msgid ""
+msgstr ""
+"1. The child should understand that written symbols, whether handwritten or "
+"in print, can convey meaning and represent spoken language.Â "
+
+msgid ""
+msgstr "2. The child should be able to associate sounds with written words.Â "
+
+msgid ""
+msgstr ""
+"3. The child should know the differences between letters, numbers, and "
+"words, and the significance of spaces between words.Â "
+
+msgid ""
+msgstr ""
+"4. The child should know that illustrations and pictures can convey meaning "
+"and add to the understanding of the written context.Â "
+
+msgid ""
+msgstr ""
+"5. The child should know that books should be held upright, that they have "
+"pages, and that they are read from front to back.Â "
+
+msgid ""
+msgstr ""
+"6. The child should know that, in English, print is read from left to right,"
+" top to bottom.Â "
+
+msgid ""
+msgstr "7. The child should know at least some letters of the alphabet.Â "
+
+msgid ""
+msgstr ""
+"8. The child should recognize some familiar words in print, such as her own "
+"first name.Â "
+
+msgid ""
+msgstr "9. The child should know how to spell his own first name.Â "
+
+msgid ""
+msgstr ""
+"10. The child should know that printed information is used in a variety of "
+"places such as books, letters, and food labels, and that each of those "
+"conveys information that serves a particular purpose.Â "
+
+msgid ""
+msgstr ""
+"11. The child should know familiar words and numbers in her environment such"
+" as stop signs, the names of stores, and street signs.Â "
+
+msgid ""
+msgstr ""
+"12. The child should be able to make simple predictions about upcoming "
+"events or outcomes in stories using illustrations and prior knowledge as a "
+"guide.Â "
+
+msgid ""
+msgstr ""
+"13. The child, gathering information from pictures, should be able to tell "
+"the general story presented in a book or pretend to read the story to "
+"himself or others.Â "
+
+msgid ""
+msgstr ""
+"14. The child should know that books have titles, authors, and sometimes "
+"illustrators.Â "
+
+msgid ""
+msgstr ""
+"15. The child should know what role the author plays (the writer of the "
+"story).Â "
+
+msgid ""
+msgstr ""
+"16. The child should know that the illustrator draws the pictures in the "
+"book.Â "
+
+msgid ""
+msgstr "17. The child should know the title is the name of the book.Â "
+
+msgid ""
+msgstr ""
+"18. The child should know the sequence of events in a story: what happens "
+"first, in the middle, and at the end.Â "
+
+msgid ""
+msgstr ""
+"19. The child should know the elements of a story such as the names of the "
+"characters, what happens in the story (the plot), where the story is set, "
+"and so on.Â "
+
+msgid ""
+msgstr ""
+"20. The child should understand the literal meaning of plays, poems, and "
+"stories.Â "
+
+msgid ""
+msgstr ""
+"21. The child should know the difference between fact and fiction, that is, "
+"real and make-believe.Â "
+
+msgid ""
+msgstr ""
+"22. The child should be able to tell stories from her own life and share her"
+" personal experiences."
+
+msgid ""
+msgstr ""
+"Â 23. The child should be able to use drawings to express thoughts, "
+"feelings, and ideas.Â "
+
+msgid ""
+msgstr "KINDERGARTENÂ Â "
+
+msgid ""
+msgstr ""
+"National standards assume that students will already have accomplished the "
+"skills listed as pre-K. "
+
+msgid ""
+msgstr "During kindergarten, the following skills should be added:Â "
+
+msgid ""
+msgstr ""
+"1. Unlike the middle of the last century, children are now encouraged to use"
+" their imagination in many areas, including reading. "
+
+msgid ""
+msgstr ""
+"Reading programs now encourage children to use mental images based on both "
+"the pictures and printed words to help them understand the text.Â "
+
+msgid ""
+msgstr ""
+"2. The student should be able to identify visual similarities and "
+"differences in words. "
+
+msgid ""
+msgstr ""
+"For example, he should be able to see that the words boy and boys, or farm "
+"and farmer are similar and also be able to discriminate between them.Â "
+
+msgid ""
+msgstr ""
+"3. The student is expected to use the subject that she is reading about, as "
+"well as picture captions, the story title, and other clues, to aid "
+"comprehension and make predictions about what will happen in the story or "
+"what a specific character will do.Â "
+
+msgid ""
+msgstr ""
+"4. The student is encouraged to sound words out using basic elements of "
+"phonetic analysis such as common letter combinations, letter sounds, and "
+"word patterns to figure out unknown words.Â "
+
+msgid ""
+msgstr ""
+"5. The student should be able to distinguish between written letters, words,"
+" and sentences."
+
+msgid ""
+msgstr ""
+"Â 6. The student should know the alphabet well enough to be able to identify"
+" uppercase and lowercase letters out of alphabetical sequence."
+
+msgid ""
+msgstr ""
+"7. The student should be able to associate specific sounds with specific "
+"letters.Â "
+
+msgid ""
+msgstr ""
+"8. The student should be able to verbalize consonant sounds when shown "
+"consonant letters.Â "
+
+msgid ""
+msgstr ""
+"9. The student should be able to recognize rhyming words, primarily "
+"consonant-vowel-consonant (CVC) words such as cat, hat, bat, rat.Â "
+
+msgid ""
+msgstr ""
+"10. The student should read selected sight words, such as doll and candy, "
+"very early in the year. "
+
+msgid ""
+msgstr ""
+"By the end of the year, the student should be able to read all the words "
+"given in the kindergarten list in this book.Â "
+
+msgid ""
+msgstr ""
+"11. The student should be able to recall orally a series of three items that"
+" she is shown.Â "
+
+msgid ""
+msgstr ""
+"12. The student should be able to use words that signal sequence "
+"relationships such as first, next, and last; up, down, around; and over, "
+"under.Â "
+
+msgid ""
+msgstr ""
+"13. The student should be able to recognize simple word opposites such as "
+"boy and girl, left and right.Â "
+
+msgid ""
+msgstr ""
+"14. The student should be able to classify objects by characteristics such "
+"as color, size, shape, structure, and function.Â "
+
+msgid ""
+msgstr ""
+"15. The student should be able to put pictures in a sequence to tell a "
+"logical story.Â "
+
+msgid ""
+msgstr ""
+"16. The student should be able to interpret pictures to identify main idea, "
+"sequence of events, cause-effect, and to predict logical outcomes.Â "
+
+msgid ""
+msgstr ""
+"17. The student should be able to explain his own drawings and writings in a"
+" logical manner or to tell a story. "
+
+msgid ""
+msgstr ""
+"This indicates that the student understands that illustrations and writing "
+"can have meaning.Â "
+
+msgid ""
+msgstr ""
+"18. The student's vocabulary should reflect an increasing range of knowledge"
+" and interests.Â "
+
+msgid ""
+msgstr "KINDERGARTEN THROUGH SECOND GRADE (LEVEL 1)Â Â "
+
+msgid ""
+msgstr ""
+"1. By first grade, the young reader has been introduced to syllables, basic "
+"prefixes, suffixes, and root words; and by second grade, to compound words, "
+"contractions, and spelling patterns. "
+
+msgid ""
+msgstr "These are basic elements of structural analysis. "
+
+msgid ""
+msgstr ""
+"At the appropriate levels, the child is expected to use these skills to "
+"decode unknown words.Â "
+
+msgid ""
+msgstr ""
+"2. Depending on the school and the teacher, in first or second grade, the "
+"student should be introduced to the idea of a dictionary. "
+
+msgid ""
+msgstr ""
+"In first grade, a picture dictionary is most often used to determine the "
+"meaning of words the student does not understand.Â "
+
+msgid ""
+msgstr ""
+"3. The student is expected to understand, as well as read, level-appropriate"
+" words and vocabulary such as those given in this book's thesaurus. "
+
+msgid ""
+msgstr ""
+"That may sound a little odd, but new readers are often able to sound out "
+"words without understanding what they mean.Â "
+
+msgid ""
+msgstr ""
+"4. When the young reader does not understand the text, she is expected to "
+"search for clues, identify where she has misread or misunderstood words or "
+"ideas, reread, and ask for help. "
+
+msgid ""
+msgstr ""
+"Known as self-correction strategies, the student is expected to take an "
+"active part in the development of her reading skills."
+
+msgid ""
+msgstr "Â 5. Reading aloud is usually introduced in first grade. "
+
+msgid ""
+msgstr ""
+"The student is expected to read familiar stories and poems fluently and with"
+" appropriate expression such as rhythm and meter, smooth flow, intonation, "
+"and pitch and tone by the time he is well into the second grade.Â "
+
+msgid ""
+msgstr ""
+"6. The student is also introduced to the basic characteristics of familiar "
+"types of books, including fairy tales, folktales, fiction, nonfiction, "
+"legends, fables, myths, poems, nursery rhymes, picture books, and "
+"predictable books."
+
+msgid ""
+msgstr ""
+"Â 7. The student should then be able to use these reading skills to "
+"understand these types of age-appropriate literature."
+
+msgid ""
+msgstr ""
+"8. The beginning of literary analysis is introduced, and the student is "
+"expected to know about setting, main characters, main events, sequence, and "
+"problems in stories. "
+
+msgid ""
+msgstr ""
+"The student is also expected to know the main ideas, or theme, of a story.Â "
+
+msgid ""
+msgstr ""
+"9. The student is expected to be able to relate his own personal "
+"experiences, including who was involved, what happened, the conflicts, and a"
+" general theme.Â "
+
+msgid ""
+msgstr ""
+"10. The student is expected to use the same skills and strategies to "
+"understand and interpret a variety of nonfiction and fiction texts, "
+"including written directions, signs, captions, and warning labels.Â "
+
+msgid ""
+msgstr ""
+"11. The student should understand the main idea and supporting details of "
+"simple expository writing.Â "
+
+msgid ""
+msgstr ""
+"12. The student should be able to summarize, or retell in her own words, the"
+" information read in the text.Â "
+
+msgid ""
+msgstr ""
+"13. The student should be able to relate the new information to his own "
+"prior knowledge and experience.Â "
+
+msgid ""
+msgstr ""
+"14. The student is asked to use her imagination, based on the pictures and "
+"words in the text, to aid in understanding the material she is reading.Â "
+
+msgid ""
+msgstr "15. Meaning clues are introduced. "
+
+msgid ""
+msgstr ""
+"That is, picture captions, the title of the writing, headings, and other "
+"hints are used to have the student make predictions about what is going to "
+"happen in a story or what a nonfiction piece will be about.Â "
+
+msgid ""
+msgstr ""
+"16. The student is expected to be able to use phonetic strategies to sound "
+"out and decode unknown words.Â "
+
+msgid ""
+msgstr ""
+"17. The student is expected to use structural analysis to better understand "
+"unknown words. "
+
+msgid ""
+msgstr ""
+"Structural analysis includes breaking the words into syllables, identifying "
+"common prefixes and suffixes, finding root words, identifying compound "
+"words, and understanding contractions.Â "
+
+msgid ""
+msgstr ""
+"18. The student should be able to read and understand level-appropriate "
+"sight words and vocabulary such as those listed for her grade in this "
+"book.Â "
+
+msgid ""
+msgstr ""
+"19. The student should use self-correction strategies such as rereading and "
+"asking for help."
+
+msgid ""
+msgstr ""
+"Â 20. The student should practice reading aloud familiar stories, poems, and"
+" passages with fluency and expression.Â "
+
+msgid ""
+msgstr ""
+"21. The student is expected to be familiar with, and know the difference "
+"between, a variety of literary types, including fables, fairy tales, "
+"folktales, legends, myths, poems, nursery rhymes, nonfiction, and more "
+"general fiction.Â "
+
+msgid ""
+msgstr ""
+"22. The student should be able to identify setting, main characters, main "
+"events, sequence, and problems in stories.Â "
+
+msgid ""
+msgstr "THIRD THROUGH FIFTH GRADE (LEVEL 2)Â Â "
+
+msgid ""
+msgstr ""
+"1. In third grade, the idea of previewing materials to help understand the "
+"content is expanded by having the student skim the materials in addition to "
+"the clues formerly introduced.Â "
+
+msgid ""
+msgstr ""
+"2. Also introduced are the many reasons for reading such as for information,"
+" for pleasure, or to understand a specific viewpoint.Â "
+
+msgid ""
+msgstr ""
+"3. Along with making simple predictions about what the reading materials "
+"will be about, or what will happen, the student learns to revise her "
+"predictions when they are not correct.Â "
+
+msgid ""
+msgstr "4. The idea of foreshadowing is introduced in a simple way.Â "
+
+msgid ""
+msgstr ""
+"5. Phonic and structural analyses become more sophisticated, and syntactic "
+"structure and semantic context to decode unknown words such as vowel "
+"patterns, complex word families, and affixes are further introduced.Â "
+
+msgid ""
+msgstr ""
+"6. The idea of reading ahead and taking words in context are used to decode "
+"unknown words. "
+
+msgid ""
+msgstr ""
+"7. By at least the fourth grade, regular dictionaries are introduced, and "
+"the student is taught how to use a variety of other word reference materials"
+" such as a glossary and thesaurus to determine the meaning, pronunciation, "
+"and derivations of unknown words.Â "
+
+msgid ""
+msgstr ""
+"8. The student is introduced to synonyms, antonyms, homophones, and words "
+"with multiple meanings.Â "
+
+msgid ""
+msgstr ""
+"9. The student should monitor his own reading strategies and make "
+"modifications as needed like recognizing when he is confused by a section of"
+" text or questions whether the text makes sense.Â "
+
+msgid ""
+msgstr ""
+"10. The student should understand that she can adjust her reading speed to "
+"suit her purpose and the difficulty of the material."
+
+msgid ""
+msgstr ""
+"11. The student should understand the author's purpose or point of view. "
+
+msgid ""
+msgstr ""
+"For example, he should be able to identify whether the writer is trying to "
+"persuade or inform the reader.Â "
+
+msgid ""
+msgstr ""
+"12. The student should be able to select reading material of direct interest"
+" or use to her based on her knowledge of genres, authors, and why they are "
+"choosing the material.Â "
+
+msgid ""
+msgstr ""
+"13. The student should understand the basic concept of plot, including the "
+"main problem, conflicts, and resolutions.Â "
+
+msgid ""
+msgstr ""
+"14. Literature from other cultures is often introduced in the third and "
+"fourth grade. "
+
+msgid ""
+msgstr ""
+"The student should understand the similarities and differences between those"
+" works and those from her own culture, including setting, what characters "
+"are expected to do, and the roles of people and nature.Â "
+
+msgid ""
+msgstr ""
+"15. The elements of character development in literary works are introduced. "
+
+msgid ""
+msgstr ""
+"These include the differences between main and minor characters; "
+"stereotypical characters as opposed to fully developed characters; changes "
+"that characters undergo; the importance of a character's actions, motives, "
+"and appearance to plot and theme.Â "
+
+msgid ""
+msgstr ""
+"16. The student should know that themes and basic plots recur across "
+"literary works.Â "
+
+msgid ""
+msgstr ""
+"17. By fifth grade, the student should understand personification, "
+"alliteration, onomatopoeia, simile, metaphor, imagery, hyperbole, beat, and "
+"rhythm.Â "
+
+msgid ""
+msgstr ""
+"18. The student should be able to make connections between characters or "
+"basic events that she is reading about and people or events in her own "
+"life.Â "
+
+msgid ""
+msgstr ""
+"19. New kinds of literary works are introduced such as formal textbooks, "
+"biographies, letters, diaries, directions, and magazines.Â "
+
+msgid ""
+msgstr ""
+"20. The student should be able to explain the differences between different "
+"kinds of nonfiction materials, including biographies, diaries, directions, "
+"letters, magazines, and textbooks.Â "
+
+msgid ""
+msgstr ""
+"21. The student should be able to use the way information is organized in a "
+"text to find main ideas and specific information quickly. "
+
+msgid ""
+msgstr ""
+"This means using topic sentences, graphics, summaries, and headings.Â "
+
+msgid ""
+msgstr ""
+"22. Along with using organizational hints within the text, the student is "
+"expected to learn to use the physical layout of the book, including the "
+"table of contents, index, glossary, and appendix, to find information in an "
+"efficient manner.Â "
+
+msgid ""
+msgstr ""
+"23. The student should be able to summarize and paraphrase information from "
+"a text, including the main idea and major supporting details.Â "
+
+msgid ""
+msgstr ""
+"24. The student should be able to draw from his previous knowledge and "
+"experience to respond to what he has read and to help understand new "
+"information.Â "
+
+msgid ""
+msgstr ""
+"25. The student should be able to explain different ways a work is organized"
+" or how information in the work is organized; for example, chronologically "
+"or sequentially. "
+
+msgid ""
+msgstr ""
+"This also includes writing that is centered on organization such as compare "
+"and contrast, proposition and support, and cause and effect.Â "
+
+msgid ""
+msgstr ""
+"26. The student should be able to understand the function of chapter breaks "
+"in both fiction and nonfiction books. "
+
+msgid ""
+msgstr "27.Â "
+
+msgid ""
+msgstr ""
+"The student should be able to identify different genres of fiction such as "
+"fantasy, folk tales, mainstream, and science fiction.Â "
+
+msgid ""
+msgstr "SIXTH THROUGH EIGHTH GRADE (LEVEL 3)Â Â "
+
+msgid ""
+msgstr ""
+"1. At this level, the student should be able to explain the reason she is "
+"reading a specific text. "
+
+msgid ""
+msgstr ""
+"These reasons may include enjoyment, problem solving, skimming for facts, "
+"reviewing previous material, or understanding an issue or viewpoint.Â "
+
+msgid ""
+msgstr ""
+"2. The student should be introduced to the etymology of words fairly early "
+"in sixth grade if not before. "
+
+msgid ""
+msgstr ""
+"This includes Latin and Greek roots, meanings of foreign words frequently "
+"used in English, and historical influences, as well as the individual origin"
+" of a particular word.Â "
+
+msgid ""
+msgstr ""
+"3. The now more sophisticated student should understand analogies, idioms, "
+"metaphors, and similes and be able to use them to infer the meaning of "
+"phrases.Â "
+
+msgid ""
+msgstr ""
+"4. The student should also use comparison and contrast, definitions, and "
+"examples to make sure he understands the meaning of individual words and to "
+"identify shades of meaning between synonyms.Â "
+
+msgid ""
+msgstr ""
+"5. The student should know denotative and connotative meanings of the "
+"reading material.Â "
+
+msgid ""
+msgstr ""
+"6. The student should understand the vocabulary of current events even if it"
+" is nonstandard for the age.Â "
+
+msgid ""
+msgstr ""
+"7. The student should be able to use references such as rhyming "
+"dictionaries, etymological dictionaries, and classification books.Â "
+
+msgid ""
+msgstr ""
+"8. Techniques for understanding confusing texts should have grown to include"
+" consulting other sources, representing abstract information as mental "
+"pictures, and drawing on background knowledge.Â "
+
+msgid ""
+msgstr ""
+"9. The student should be able to identify the ways in which an author uses "
+"language to persuade readers to his viewpoint or to accomplish another "
+"purpose. "
+
+msgid ""
+msgstr ""
+"The student should be able to identify the use of emotion, appeal to "
+"authority, how word choice affects attitude, language structure, and other "
+"techniques.Â "
+
+msgid ""
+msgstr ""
+"10. The student should be able to form and express an opinion about what she"
+" has read and be able to respond to the text.Â "
+
+msgid ""
+msgstr ""
+"11. The student should be able to identify and understand complex elements "
+"of plot development such as the use of subplots, parallel episodes, and "
+"climax, as well as the development of conflict and resolution.Â "
+
+msgid ""
+msgstr ""
+"12. Similarly, the student should be able to identify and explain the "
+"elements of character development such as character traits, motivations, "
+"relationships between characters, stereotypes, and plot development. "
+
+msgid ""
+msgstr ""
+"The student should also understand the development of characters through "
+"their actions, thoughts, words, and interaction with other characters.Â "
+
+msgid ""
+msgstr ""
+"13. The student should understand foreshadowing, flashback, the development "
+"of suspense or tension, and similar literary devices.Â "
+
+msgid ""
+msgstr ""
+"14. The student should understand that the way language is used in "
+"literature helps convey mood and meaning as well as create mental images. "
+
+msgid ""
+msgstr ""
+"Some of the literary techniques include dialect, dialogue, irony, rhyme, "
+"symbolism, and tone. "
+
+msgid ""
+msgstr ""
+"This should also include the actual sound of the word and how it interacts "
+"with other words, for example, alliteration; assonance; consonance; "
+"euphonious and cacophonous words; onomatopoeia; and figurative language such"
+" as similes, metaphors, personification, hyperbole, and allusion.Â "
+
+msgid ""
+msgstr ""
+"15. The student should also be aware that the structure of the writing can "
+"convey emotion and affect the tempo of the story. "
+
+msgid ""
+msgstr ""
+"For example, very short sentences are often used to create tension or convey"
+" urgency while long sentences with adjectives are often used to slow the "
+"pace of a story.Â "
+
+msgid ""
+msgstr ""
+"16. The student should be able to explain the effect of an author's style, "
+"such as word choice and imagery, on the reader.Â "
+
+msgid ""
+msgstr ""
+"17. The student should be able to identify the point of view used in a "
+"literary text such as first or third person, limited and omniscient, and how"
+" that affects what the reader knows.Â "
+
+msgid ""
+msgstr ""
+"18. The student should be able to explain implied and recurring themes in "
+"literary works such as good versus evil; bravery; friendship; loyalty; and "
+"historical, cultural, and social themes.Â "
+
+msgid ""
+msgstr ""
+"19. The student should be able to see the similarities between the "
+"motivation of characters in a text, or the causes of complex events, and her"
+" own life and the world around her.Â "
+
+msgid ""
+msgstr ""
+"20. By sixth grade, the student should be able to follow map routes, order "
+"from a catalogue, use bus schedules and understand routes, and use telephone"
+" and other directoriesÂ "
+
+msgid ""
+msgstr ""
+"21. The student should be able to make judgments on the quality of source "
+"materials, such as between standard newspapers and tabloids. "
+
+msgid ""
+msgstr ""
+"The student should also be able to make critical judgments about, and know "
+"how to use, primary source materials such as letters and historical "
+"documents.Â "
+
+msgid ""
+msgstr ""
+"22. Besides being able to summarize read materials, the student should be "
+"able to properly quote materials and convey the author's viewpoint.Â "
+
+msgid ""
+msgstr ""
+"23. The student should be able to draw conclusions based on implicit, as "
+"well as explicit, information in a text.Â "
+
+msgid ""
+msgstr ""
+"24. The student should be able to differentiate between fact and opinion "
+"within the same text.Â "
+
+msgid ""
+msgstr "WHERE TO FIND INFORMATION ON OTHER STANDARDS AND BENCHMARKSÂ "
+
+msgid ""
+msgstr ""
+"Science and TechnologyÂ  Many, if not most, magazines for children now have "
+"science stories as a regular part of their content. "
+
+msgid ""
+msgstr ""
+"Project 2061 of the American Association for the Advancement of Science is a"
+" long-term initiative dealing with K--12 science nationwide. "
+
+msgid ""
+msgstr ""
+"The project is creating a coordinated set of reform tools and "
+"servicesâ€”books, CD-ROMS, online resources, and workshops-to help educators"
+" work toward science literacy for all students, and is a wonderful resource "
+"for writers who want to enter that market. "
+
+msgid ""
+msgstr "Find them at <link>."
+
+msgid ""
+msgstr ""
+"The American Association for the Advancement of Science (AAAS) and MCI World"
+" Com offer lessons and Web resources organized around Project 2061 "
+"\"Benchmarks for Science Literacy.\" They also provide the research that "
+"went into creating those benchmarks. "
+
+msgid ""
+msgstr "They are found at <link>Â "
+
+msgid ""
+msgstr ""
+"National Science Education Standards have been developed by the National "
+"Research Council. "
+
+msgid ""
+msgstr ""
+"The National Academy Press has the full text of these standards online at "
+"<link>"
+
+msgid ""
+msgstr ""
+"The National Council for Geographic Education (NCGE) has created a program "
+"called \"Geography for Life.\" It is the final report of the Geography "
+"Education Standards Project, which was funded through the NCGE by the U.S. "
+
+msgid ""
+msgstr ""
+"Department of Education, the National Endowment for the Humanities, and the "
+"National Geographic Society. "
+
+msgid ""
+msgstr ""
+"\"Geography for Life\" provides a set of guidelines for what students should"
+" know, and be able to do, by the end of grades 4 and 8. The URL is <link>"
+
+msgid ""
+msgstr ""
+"Content for the Study of Technology was created by the International "
+"Technology Education Association. "
+
+msgid ""
+msgstr ""
+"They try to provide the basics of what every student needs to know about "
+"technology and what they should be able to do with it. "
+
+msgid ""
+msgstr ""
+"They provide an organizational framework for an articulated program in "
+"technology from grades K-12 and a structure for teaching technology that can"
+" withstand the accelerating changes in our technological environment. "
+
+msgid ""
+msgstr ""
+"Their \"Standards for Technological Literacy: Content for the Study of "
+"Technology\" can be found at <link>"
+
+msgid ""
+msgstr ""
+"The same group has developed National Educational Technology Standards "
+"(NETS). "
+
+msgid ""
+msgstr ""
+"The primary goal of NETS is to enable those who write for or work with "
+"pre-K-12 education to have national standards for the educational uses of "
+"technology. "
+
+msgid ""
+msgstr ""
+"The NETS project is working to integrate curriculum technology into the "
+"wider world of education. "
+
+msgid ""
+msgstr ""
+"Though a work in progress at this time, the site will be of increasing use "
+"over the next several years. "
+
+msgid ""
+msgstr "It is located at <link>"
+
+msgid ""
+msgstr "MathematicsÂ "
+
+msgid ""
+msgstr ""
+"The National Council of Teachers of Mathematics Principles and Standards for"
+" School Mathematics\" was released in 2000. The electronic version of the "
+"latest standards is available online. "
+
+msgid ""
+msgstr ""
+"The document is designed to establish a broad framework to guide reform in "
+"school mathematics in the next decade for pre-K through grade 12. Find them "
+"at <link> "
+
+msgid ""
+msgstr ""
+"For vignettes and lessons that help explicate the new standards, see the "
+"Illuminations Web site, published by NCTM and MCI Worldcom, at <link>"
+
+msgid ""
+msgstr "Other Resources"
+
+msgid ""
+msgstr ""
+"The Council of Chief State School Officers (CCSSO) has made the full text of"
+" Key State Policies on K-12 Education available through searching <link> "
+"Other publications that may be of interest through this site include "
+"\"Alignment of Science and Mathematics Standards and Assessments in Four "
+"States.\""
+
+msgid ""
+msgstr ""
+"A Compendium of Standards and Benchmarks for K-12 Education is available at "
+"<link>"
+
+msgid ""
+msgstr "Each U.S. "
+
+msgid ""
+msgstr "state has a department of education. "
+
+msgid ""
+msgstr ""
+"Contact information and Web sites for each state and most territories are "
+"listed in the back of this book, in the Resources section. "
+
+msgid ""
+msgstr ""
+"Many of the states and territories have standards and benchmarks online. "
+
+msgid ""
+msgstr ""
+"Virtually all the online materials can be found by searching within the Web "
+"sites for standards, benchmarks, framework, or course of study. "
+
+msgid ""
+msgstr ""
+"You can also find hotlinks to each state's education Web site online at "
+"<link>"
+
+msgid ""
+msgstr "Footnote"
+
+msgid ""
+msgstr ""
+"One survey in Southern California showed as many as fifty separate languages"
+" were spoken as primary, or first, languages by students in a single school "
+"district."
+
+msgid ""
+msgstr "KINDERGARTEN"
+
+msgid ""
+msgstr " Social Changes."
+
+msgid ""
+msgstr ""
+"At one time, kindergarten was considered primarily a socialization process. "
+
+msgid ""
+msgstr "Those days are gone. "
+
+msgid ""
+msgstr ""
+"The federal government is promoting preschool education for all students. "
+
+msgid ""
+msgstr ""
+"In a growing number of places in the country, children actually have to pass"
+" a reading competency test to \"graduate\" into first grade. "
+
+msgid ""
+msgstr ""
+"Teachers now must teach reading skills, and there is a growing demand for "
+"stories for classroom use. "
+
+msgid ""
+msgstr ""
+"This makes read-it-yourself literature even more relevant than before. "
+
+msgid ""
+msgstr "There are also new subjects introduced at the earliest ages. "
+
+msgid ""
+msgstr ""
+"While actual lessons on space exploration and ecology currently wait until "
+"second or third grade, the concepts are introduced here, and one should "
+"expect these subjects to be introduced formally in the future at even "
+"younger ages."
+
+msgid ""
+msgstr " In the Classroom."
+
+msgid ""
+msgstr ""
+"Because of the ever-growing number of kindergartners who have attended "
+"preschool, some are able to read materials previously considered appropriate"
+" for first to third graders. "
+
+msgid ""
+msgstr "Health education begins, or continues, in kindergarten. "
+
+msgid ""
+msgstr ""
+"Children are often given toothbrushes and encouraged to brush their teeth at"
+" school. "
+
+msgid ""
+msgstr ""
+"Nutrition is discussed in terms of eating a good breakfast and drinking milk"
+" and personal hygiene is also promoted. "
+
+msgid ""
+msgstr ""
+"If you can make these health issues fun or interesting, educational "
+"publishers and trade magazines such as Highlights for Children could turn "
+"into great marketplaces.Â "
+
+msgid ""
+msgstr ""
+"Words for holidays such as Halloween, Christmas, and Easter may seem too "
+"advanced for this level, but are, in fact, commonly used. "
+
+msgid ""
+msgstr ""
+"Like many complicated picture books, they are understood in context and "
+"become recognized as \"sight\" reading words rather than \"phonic\" ones. "
+
+msgid ""
+msgstr ""
+"Mother's Day, Valentine's Day, February as Black History Month, and "
+"President's Day have all come into major focus in schools. "
+
+msgid ""
+msgstr ""
+"Even though they may not be vacation holidays, a great deal of time is "
+"devoted to talking, writing, and arts and crafts projects in celebration of "
+"these days. "
+
+msgid ""
+msgstr ""
+"Poetry and short stories with themes geared to these minor holiday are a "
+"part of classroom learning. "
+
+msgid ""
+msgstr ""
+"Dinosaurs are popular with young children, but they are treated in a "
+"simplified manner here and formally introduced in second grade. "
+
+msgid ""
+msgstr ""
+"However, dinosaurs are often a focus in the kindergarten classroom and are "
+"the basis of art projects, music, and developing reading and writing skills."
+" "
+
+msgid ""
+msgstr ""
+"They make good subjects for shape books or picture and coloring books. "
+
+msgid ""
+msgstr ""
+"If you use the scientific names for the different species, or discuss "
+"subjects such as family, diet, or other behavior, be sure they're compatible"
+" with current opinions. "
+
+msgid ""
+msgstr ""
+"For example, the brontosaurus is now generally accepted as not having really"
+" lived. "
+
+msgid ""
+msgstr ""
+"Brontosaurus is actually just an Apatosaurus, whose head was replaced with "
+"the wrong skull. "
+
+msgid ""
+msgstr ""
+"Cooking is often used in the same way and provides hands-on experience that "
+"can lend extra dimensions to classroom learning.Â "
+
+msgid ""
+msgstr " Specific Vocabulary Development."
+
+msgid ""
+msgstr ""
+"The kindergarten student's vocabulary centers around one-syllable words, "
+"under six letters. "
+
+msgid ""
+msgstr ""
+"The numbers one to ten and the primary colors are introduced in "
+"kindergarten. "
+
+msgid ""
+msgstr "Seasons are also introduced (autumn is known as fall). "
+
+msgid ""
+msgstr ""
+"Kindergartners know words like the and a as well as tree and, of course, boy"
+" and girl. "
+
+msgid ""
+msgstr ""
+"Most publishers do not use contractions yet, and possessives are not "
+"commonly used either. "
+
+msgid ""
+msgstr ""
+"The months and days of the week are not usually introduced until first "
+"grade. "
+
+msgid ""
+msgstr ""
+"The animals most commonly introduced at the kindergarten level are included "
+"in the following word list. "
+
+msgid ""
+msgstr "Groups of animals and plants are particularly flexible. "
+
+msgid ""
+msgstr ""
+"Please see the first- through third-grade lists for other animals that are "
+"introduced at the earliest levels."
+
+msgid ""
+msgstr " Publishing."
+
+msgid ""
+msgstr ""
+"Schools primarily use picture books and magazines, which traditionally "
+"address the two- to eight-year-old child. "
+
+msgid ""
+msgstr ""
+"Picture stories are also good for this group, although traditionally meant "
+"for the first- to third-grade child. "
+
+msgid ""
+msgstr ""
+"Whether meant to be read aloud by an adult or alone by the child, the story "
+"line is carried more by text than by pictures in the picture story. "
+
+msgid ""
+msgstr "These stories should have lots of action.Â "
+
+msgid ""
+msgstr ""
+"Books meant to be read by adults to the youngest listeners should take no "
+"more than twenty minutes to read; ten to fifteen minutes is preferred. "
+
+msgid ""
+msgstr ""
+"The sentence length can vary but should be such that the child that is being"
+" read to can follow it easily. "
+
+msgid ""
+msgstr ""
+"If the sentences are long, they should have breaks and pictures to keep the "
+"child in the story. "
+
+msgid ""
+msgstr ""
+"The self-reader should have a sentence, or idea, length of five to six "
+"words. "
+
+msgid ""
+msgstr ""
+"That means that a long sentence can be broken up into shorter phrases, but "
+"those phrases should convey a whole idea. "
+
+msgid ""
+msgstr ""
+"For example, in a self reader the sentence, It is best to have two when you "
+"go to the zoo, might be broken up into it is best to have two as one idea "
+"phrase and when you go to the zoo and a second idea phrase. "
+
+msgid ""
+msgstr ""
+"Dialogue at this level is often set off by a full colon, rather than by "
+"quotation marks:Â "
+
+msgid ""
+msgstr "Mother said: See the sun. "
+
+msgid ""
+msgstr "Today will be fun.Â "
+
+msgid ""
+msgstr ""
+"Stories about other holidays that take into account our nation's cultural "
+"diversity are often eagerly sought. "
+
+msgid ""
+msgstr ""
+"You may find Chinese New Year, Chanukah, and Kwanzaa have little or no "
+"competition in the marketplace, yet they provide a healthy market for the "
+"children's writer and excellent formats for creative writing exercises in "
+"class. "
+
+msgid ""
+msgstr ""
+"Magazines, book publishers, and even newspapers often look for holiday "
+"material for children, and it's easier to sell stories about holidays that "
+"get less media coverage than Christmas and Easter.Â "
+
+msgid ""
+msgstr " Writing Samples."
+
+msgid ""
+msgstr ""
+"The following is a picture story meant for the adult to read to the "
+"kindergarten child. "
+
+msgid ""
+msgstr ""
+"The dots indicate a picture or a page break and each of the ideas would be "
+"illustrated."
+
+msgid ""
+msgstr "- There is one girl. "
+
+msgid ""
+msgstr "One. "
+
+msgid ""
+msgstr "And she wants to have fun. "
+
+msgid ""
+msgstr ""
+"- She can roll a ball, - color, - draw, - ride a bus, - play with the cat.Â "
+
+msgid ""
+msgstr "- She can walk the dogÂ "
+
+msgid ""
+msgstr "- or play with her doll.Â "
+
+msgid ""
+msgstr "- But one, just one,"
+
+msgid ""
+msgstr "- cannot play bat the ball,Â Â "
+
+msgid ""
+msgstr "- or go fishÂ "
+
+msgid ""
+msgstr "- or run, red, run.Â "
+
+msgid ""
+msgstr "- One, just one, cannot play houseÂ "
+
+msgid ""
+msgstr "- or schoolÂ "
+
+msgid ""
+msgstr "- or store.Â "
+
+msgid ""
+msgstr "- It is best to have two when you go to the zooÂ "
+
+msgid ""
+msgstr "- or go for a walk"
+
+msgid ""
+msgstr "Â - or just want to talk.Â "
+
+msgid ""
+msgstr "- It is a good thing she has a brother."
+
+msgid ""
+msgstr ""
+"To make this story into a self reader, the sentence, or idea phrase, length "
+"should be changed.Â "
+
+msgid ""
+msgstr "- There is one girl. "
+
+msgid ""
+msgstr "One.Â "
+
+msgid ""
+msgstr "- And she wants to have fun.Â "
+
+msgid ""
+msgstr "- She can roll a ball.Â "
+
+msgid ""
+msgstr "- She can color.Â "
+
+msgid ""
+msgstr "She can ride a bus.Â "
+
+msgid ""
+msgstr "- She can play with the cat.Â "
+
+msgid ""
+msgstr "- She can walk the dog.Â "
+
+msgid ""
+msgstr "- Or play with her doll.Â "
+
+msgid ""
+msgstr "- But one cannot play ball.Â "
+
+msgid ""
+msgstr "- Or play go fish.Â "
+
+msgid ""
+msgstr "- Or play run, red, run.Â "
+
+msgid ""
+msgstr "- One cannot play house."
+
+msgid ""
+msgstr "Â - Or play school.Â "
+
+msgid ""
+msgstr "- Or play store.Â "
+
+msgid ""
+msgstr "- You need two for the zoo.Â "
+
+msgid ""
+msgstr "- Or to go for a walk.Â "
+
+msgid ""
+msgstr "- Or just to talk.Â "
+
+msgid ""
+msgstr "- She is glad she has a brother."
+
+msgid ""
+msgstr ""
+"The sentences are not actually complete, but a period is often used to show "
+"a complete thought. "
+
+msgid ""
+msgstr "Short sentences or idea phases are less daunting to a young reader. "
+
+msgid ""
+msgstr ""
+"It gives them a feeling of accomplishment to finish a sentence unit and "
+"understand it."
+
+msgid ""
+msgstr "FIRST GRADEÂ Â "
+
+msgid ""
+msgstr ""
+"Unlike the middle of the last century, children are now encouraged to use "
+"their imagination in many areas, including reading. "
+
+msgid ""
+msgstr ""
+"One of the first things reading programs now encourage children to do is to "
+"use mental images based on both the pictures and printed word to help young "
+"readers understand the text. "
+
+msgid ""
+msgstr ""
+"In a related strategy, they are expected to use the subject that they are "
+"reading about, picture captions, the story title, and other clues to aid "
+"comprehension and make predictions about what will happen in the story or "
+"what a specific character will do."
+
+msgid ""
+msgstr ""
+"When Word Book was first published, phonics was only one of several popular "
+"strategies for teaching reading to the youngest children. "
+
+msgid ""
+msgstr ""
+"As the new century takes off, phonics has returned to center stage, and "
+"children nationally are encouraged to sound words out using basic elements "
+"of phonetic analysis such as common letter combinations, letter sounds, and "
+"word patterns to figure out unknown words.Â "
+
+msgid ""
+msgstr " Social Changes."
+
+msgid ""
+msgstr ""
+"Although many first graders have been in all-day kindergarten, some are new "
+"to being away from home all day long, and all first graders are new to the "
+"sustained periods of concentration that are necessary in the first-grade "
+"classroom."
+
+msgid ""
+msgstr " In the Classroom."
+
+msgid ""
+msgstr ""
+"While children learn the seasons and the numbers one to ten in kindergarten,"
+" the months, days of the week, and numbers over ten generally are introduced"
+" in first grade. "
+
+msgid ""
+msgstr "Almost all sports are introduced by name at this level. "
+
+msgid ""
+msgstr ""
+"However, the technical details and rules are not generally introduced until "
+"third grade."
+
+msgid ""
+msgstr ""
+"By the end of kindergarten, most children can sound out any three- or four-"
+"letter word. "
+
+msgid ""
+msgstr ""
+"However, many of these words (such as eve or dim) are introduced later since"
+" they are somewhat abstract. "
+
+msgid ""
+msgstr ""
+"(If a word seems overly sophisticated for your young audience, check the "
+"word list or the thesaurus sections in this book; the words listed there are"
+" taken from publishers' graded material.)Â "
+
+msgid ""
+msgstr " Specific Vocabulary Development."
+
+msgid ""
+msgstr ""
+"The prefix un is introduced for the simplest of words such as unhappy, "
+"unfit, or undo. "
+
+msgid ""
+msgstr ""
+"The suffix ing is also introduced, and words such as fishing, walking, and "
+"reading are common. "
+
+msgid ""
+msgstr "The past tense is also introduced. "
+
+msgid ""
+msgstr ""
+"This includes irregular forms such as know to knew and was to were, as well "
+"as the addition of a simple ed such as ask to asked and walk to walked.Â "
+
+msgid ""
+msgstr "Possessives are introduced at the very beginning of the year. "
+
+msgid ""
+msgstr ""
+"Dad's hat and mother's dress appear along with the other changes mentioned, "
+"which give the writer a great deal more flexibility than when writing for "
+"the youngest self-readers. "
+
+msgid ""
+msgstr ""
+"Contractions such as I'd, I'll, I'm, I've, we're, can't, and won't are "
+"introduced at this level. "
+
+msgid ""
+msgstr ""
+"The most commonly used compound words, such as classroom and grandmother, "
+"are introduced in first grade, but many schools wait until second grade even"
+" if the individual words are understood by the child. "
+
+msgid ""
+msgstr ""
+"The key seems to be how familiar the reader is with the concept and how "
+"often the word is used in their everyday lives.Â "
+
+msgid ""
+msgstr " Publishing."
+
+msgid ""
+msgstr "The optimal sentence length is still around five to six words. "
+
+msgid ""
+msgstr ""
+"However, as with all writing, length should vary throughout your story. "
+
+msgid ""
+msgstr ""
+"Some publishers are now using longer sentences but use the strategy of "
+"breaking them up into five- or six-word lines. "
+
+msgid ""
+msgstr ""
+"The longest sentence length used in a strictly graded text for this age is "
+"ten words. "
+
+msgid ""
+msgstr "Parenthetical statements should be avoided. "
+
+msgid ""
+msgstr ""
+"Sentence length is important because the early reader can become lost in the"
+" individual words and have trouble understanding the overall idea. "
+
+msgid ""
+msgstr ""
+"The constraints on sentence length are eased by the ability to start "
+"sentences with such words as and, because, and but. "
+
+msgid ""
+msgstr ""
+"Sentences at this level need to be whole ideas but do not necessarily need "
+"to conform to strictly correct adult standards.Â "
+
+msgid ""
+msgstr ""
+"If the story is written for an adult to read to a child, sentence length is "
+"only restricted to that which is comfortably read aloud in one breath. "
+
+msgid ""
+msgstr ""
+"The vocabulary should be such that the child can easily understand it, but "
+"it is not constrained to a graded vocabulary.Â "
+
+msgid ""
+msgstr ""
+"There is a much larger periodical market for the primary group than there is"
+" for the very beginning reader. "
+
+msgid ""
+msgstr ""
+"Very short articles or stories, known as fillers, are popular in magazines. "
+
+msgid ""
+msgstr ""
+"These fillers are usually under 500 words and often under 100. One editor "
+"told me that \"if you can make brushing your teeth fun, you can make a "
+"living the rest of your life.\" Games, riddles, and stories about good "
+"health habits, safety, science, and human interest pieces are especially "
+"welcome even in the most prestigious periodicals.Â "
+
+msgid ""
+msgstr ""
+"As mentioned earlier, most sports are understood by name at this level and "
+"are especially popular in literacy books for older readers. "
+
+msgid ""
+msgstr ""
+"There is a great appetite for stories and nonfiction articles about "
+"everything from baseball to karate; however, the technical details and rules"
+" are not generally introduced until the reader achieves third-grade reading "
+"skills.Â "
+
+msgid ""
+msgstr ""
+"Like sports, simple mysteries and \"friendly\" ghost stories are popular "
+"among first graders or level 1 books. "
+
+msgid ""
+msgstr ""
+"Many, if not most, of the fiction stories published for six- to eight-year-"
+"olds are fantasies, but retelling such classics as The Goose Girl in modern "
+"dress is sure to garner rejection slips instead of praise. "
+
+msgid ""
+msgstr ""
+"Two areas that are popular are stories that show a child being able to help "
+"her family or community in a realistic manner and children dealing with "
+"minor problems in appropriate ways. "
+
+msgid ""
+msgstr ""
+"Problems like the death of a goldfish or a divorce is acceptable if it is "
+"done with a light touch.Â "
+
+msgid ""
+msgstr ""
+"Books for teens and adults learning to read often start at the first-grade "
+"level rather than kindergarten. "
+
+msgid ""
+msgstr ""
+"Most of these books are presented much like those for the young reader but "
+"with fewer pictures than those for children, and many are presented in a "
+"standard paperback format. "
+
+msgid ""
+msgstr ""
+"They primarily feature romance, sports, suspense, nonviolent mysteries, and "
+"other high-interest subjects. "
+
+msgid ""
+msgstr ""
+"They may also address such practical areas as working, social skills, and "
+"legal problems and how to solve them. "
+
+msgid ""
+msgstr ""
+"The vocabulary, length, and style guidelines are uniform for the level no "
+"matter who the end user.Â "
+
+msgid ""
+msgstr " Writing Sample."
+
+msgid ""
+msgstr ""
+"The following story employs a popular subjectâ€” ghostsâ€”and a popular "
+"genreâ€”mystery. "
+
+msgid ""
+msgstr "It also takes on a common \"problem\" for kidsâ€”moving. "
+
+msgid ""
+msgstr ""
+"The sentences are within the ten-word limit, and the words are monosyllabic."
+" "
+
+msgid ""
+msgstr "Another theme present is adaptation. "
+
+msgid ""
+msgstr ""
+"First graders adapt to full days of school work, and Tommy adapts to new "
+"surroundings:"
+
+msgid ""
+msgstr "Tommy looked at the old house. "
+
+msgid ""
+msgstr "There was a ghost in that house. "
+
+msgid ""
+msgstr "It was a little ghost, just like Tommy. "
+
+msgid ""
+msgstr "He could see the top of its white head. "
+
+msgid ""
+msgstr "He could see its eyes. "
+
+msgid ""
+msgstr "But that was all. "
+
+msgid ""
+msgstr "It had to be a small ghost.Â "
+
+msgid ""
+msgstr "\"This is OK. "
+
+msgid ""
+msgstr "A ghost is fun,\" he said. "
+
+msgid ""
+msgstr "\"Moving here may be OK.\"Â "
+
+msgid ""
+msgstr "Tommy did not like to move. "
+
+msgid ""
+msgstr "He did not want to move from the city. "
+
+msgid ""
+msgstr "But his father was a park ranger. "
+
+msgid ""
+msgstr "He worked at a beach park now so they all had to move."
+
+msgid ""
+msgstr "Â His father liked the beach. "
+
+msgid ""
+msgstr "So did his brother Bob. "
+
+msgid ""
+msgstr "His mother loved their house. "
+
+msgid ""
+msgstr "Most houses for rangers are not new. "
+
+msgid ""
+msgstr "This one was new and it was big. "
+
+msgid ""
+msgstr "Tommy was the only one who did not want to live there.Â "
+
+msgid ""
+msgstr "\"But a ghost is really OK,\" he said. "
+
+msgid ""
+msgstr "\"The old house is OK. "
+
+msgid ""
+msgstr "The new house may be OK, too.\""
+
+msgid ""
+msgstr "SECOND GRADEÂ Â "
+
+msgid ""
+msgstr ""
+"In the second and third grades, the smallest number of new words are added "
+"to a new reader's vocabulary. "
+
+msgid ""
+msgstr ""
+"The two grades together add the average number in each of the other grades. "
+
+msgid ""
+msgstr ""
+"One change from the earlier edition of the book is the addition of the "
+"proper names of the most common dinosaurs. "
+
+msgid ""
+msgstr ""
+"Previously, even though dinosaurs were very popular with even the youngest "
+"child, proper names were not used in graded literature until fifth grade. "
+
+msgid ""
+msgstr ""
+"That is still true of the most unusual types, but the most common, such as "
+"Stegosaurus or Triceratops, are now introduced here. "
+
+msgid ""
+msgstr ""
+"Additionally, children are introduced to science, particularly biology and "
+"ecology. "
+
+msgid ""
+msgstr ""
+"Still, overall, this is a time to confirm skills and allow those who were "
+"not as ready to catch up.Â "
+
+msgid ""
+msgstr " Social Changes."
+
+msgid ""
+msgstr ""
+"One of the major changes common at this age is that most children have "
+"become less self-oriented than they were in kindergarten and even first "
+"grade. "
+
+msgid ""
+msgstr ""
+"As a result, they have stopped generalizing characters, and individual "
+"personalities have become important in stories."
+
+msgid ""
+msgstr " In the Classroom."
+
+msgid ""
+msgstr ""
+"A beginning study of the solar system is often part of the second-grade "
+"curriculum. "
+
+msgid ""
+msgstr ""
+"The continents and the cardinal directions, north, south, east, and west, "
+"are generally taught in school, and there is usually some work with the "
+"world map."
+
+msgid ""
+msgstr ""
+"Schools introduce their home state, other major states, and a few foreign "
+"countries by this level. "
+
+msgid ""
+msgstr ""
+"These countries include major powers and nations that are near neighbors of "
+"the United States both physically and culturally. "
+
+msgid ""
+msgstr ""
+"The best known states, such as New York, California, Florida, and Texas, are"
+" familiar to the second grader as he learns about the continental United "
+"States. "
+
+msgid ""
+msgstr ""
+"More explanation or description may be needed in introducing difficult names"
+" or lesser known states. "
+
+msgid ""
+msgstr ""
+"Canada and Mexico, which border the United States, and England, France, and "
+"Germany are introduced at this level. "
+
+msgid ""
+msgstr ""
+"Nations currently in the news are often familiar to the second grader "
+"also.Â "
+
+msgid ""
+msgstr "Foreign or unusual words begin to be introduced in second grade. "
+
+msgid ""
+msgstr ""
+"When including words that are not in the child's vocabulary, it is best to "
+"give the definition first and then the word. "
+
+msgid ""
+msgstr ""
+"Readers tend to skip over unfamiliar words, getting the meaning from the "
+"context of the sentence. "
+
+msgid ""
+msgstr ""
+"Giving the definition first makes it much easier to learn the new word; for "
+"example, a large open plain in Africa is called a savanna.Â "
+
+msgid ""
+msgstr " Specific Vocabulary Development."
+
+msgid ""
+msgstr ""
+"While some of the most common compound words were introduced in first grade,"
+" far more are introduced in second grade. "
+
+msgid ""
+msgstr ""
+"At this point, any compound words that are made up of words the children "
+"already know may be used. "
+
+msgid ""
+msgstr ""
+"Going beyond the standard list, you might name a Native American Redhorse or"
+" Whitesnake and still be well within the parameters of the age group. "
+
+msgid ""
+msgstr ""
+"Some compound words in the word lists are listed at a higher grade level "
+"than where they usually would be placed. "
+
+msgid ""
+msgstr ""
+"These words are listed at the levels at which they were actually used in "
+"graded texts. "
+
+msgid ""
+msgstr ""
+"However, if the meaning is clear and the word is easily read, it can be used"
+" at a lower level."
+
+msgid ""
+msgstr " Publishing."
+
+msgid ""
+msgstr ""
+"From this point on, the protagonist of your story should be at least the "
+"same age as, and preferably a little older than, the reader. "
+
+msgid ""
+msgstr ""
+"Since there are few illustrations in easy readers, you need to help your "
+"reader identify the characters and give her easy ways to remember each "
+"character. "
+
+msgid ""
+msgstr ""
+"One way to do this is with tags, actions, gestures, or physical attributes "
+"that easily identify the person for the reader. "
+
+msgid ""
+msgstr ""
+"One character might constantly be pushing up his glasses when he talks, or "
+"another's red hair and freckles may make her memorable.Â "
+
+msgid ""
+msgstr ""
+"Mysteries, adventures, and hero stories are very popular at this age. "
+
+msgid ""
+msgstr ""
+"Vocabulary choice and sentence length are important because most books are "
+"aimed at self-readers. "
+
+msgid ""
+msgstr "The ideal sentence length is still five or six words. "
+
+msgid ""
+msgstr ""
+"However, some publishers have already increased the target sentence length "
+"to around ten words. "
+
+msgid ""
+msgstr "Long passages of description are still unacceptable. "
+
+msgid ""
+msgstr ""
+"There are many reasons to maintain a short sentence length, even if the "
+"publisher does not require it. "
+
+msgid ""
+msgstr ""
+"The child reads one word at a time, then puts the words together to make a "
+"whole idea. "
+
+msgid ""
+msgstr "The shorter the sentence is, the easier that process becomes. "
+
+msgid ""
+msgstr "Thus, it is easier to understand. "
+
+msgid ""
+msgstr ""
+"The inexperienced reader also gets a sense of accomplishment in successfully"
+" finishing and understanding a sentence.Â "
+
+msgid ""
+msgstr "Most books run between 1,000 and 1,500 words. "
+
+msgid ""
+msgstr ""
+"The low end is 500 words, and the high end is 2,000. Most magazines aimed at"
+" this age group use stories ranging from 300 to 500 words but welcome short "
+"pieces also. "
+
+msgid ""
+msgstr "One thousand words is almost certain to be too long for a magazine. "
+
+msgid ""
+msgstr ""
+"Check your writer's guide lines or Children's Writer's and Illustrator's "
+"Market for individual length requirements; remember, publishers generally "
+"list the maximum number of words they want. "
+
+msgid ""
+msgstr ""
+"Second graders seem to be caught in the middle as far as books and magazines"
+" are concerned. "
+
+msgid ""
+msgstr "They are neither at the beginning nor at the end of a period. "
+
+msgid ""
+msgstr ""
+"Their interests, reading skills, and egos sometimes make reading picture "
+"books unacceptable, and heavily illustrated picture stories are often "
+"overlooked because they seem too \"babyish.\" Even though the vocabulary "
+"goes beyond second grade, at this point the young reader or easy-to-read "
+"book comes into its own. "
+
+msgid ""
+msgstr ""
+"The more adult presentation appeals to the seven- and eight-year-olds, and "
+"their reading skills are generally good enough that they no longer need the "
+"support provided by profuse illustrations.Â "
+
+msgid ""
+msgstr " Writing Samples."
+
+msgid ""
+msgstr "The following story asks the young reader to use her imagination. "
+
+msgid ""
+msgstr "It also demonstrates how to introduce a new word, barnacle:"
+
+msgid ""
+msgstr "Let's pretend you have an aquarium. "
+
+msgid ""
+msgstr "What would you put in it? Would you put a cat in it? No. "
+
+msgid ""
+msgstr "Cats don't live in water. "
+
+msgid ""
+msgstr "Would you put a dog in it? No. "
+
+msgid ""
+msgstr "Dogs don't live in water. "
+
+msgid ""
+msgstr "Would you put a barnacle in it? You could. "
+
+msgid ""
+msgstr "Barnacles live in water. "
+
+msgid ""
+msgstr "But they aren't very pretty. "
+
+msgid ""
+msgstr "They are small grayish sea animals. "
+
+msgid ""
+msgstr "Would you put a fish in it? Yes. "
+
+msgid ""
+msgstr "Fish live in water. "
+
+msgid ""
+msgstr "Most fish are pretty. "
+
+msgid ""
+msgstr "Some fish are beautiful. "
+
+msgid ""
+msgstr "I think I like fish best. "
+
+msgid ""
+msgstr "I would put them in my aquarium."
+
+msgid ""
+msgstr "THIRD GRADEÂ Â "
+
+msgid ""
+msgstr ""
+"Ecology, which was introduced in a minor way in second grade, is now "
+"expanded. "
+
+msgid ""
+msgstr ""
+"The groups establishing national standards and benchmarks recommend "
+"including information on solid waste and recycling. "
+
+msgid ""
+msgstr ""
+"Quite a few schools have recycling programs, and some clever teachers have "
+"the children not only save items like aluminum cans but take a field trip to"
+" a recycling plant. "
+
+msgid ""
+msgstr ""
+"The children see what happens to the materials they collect and can get "
+"money for what they have done. "
+
+msgid ""
+msgstr ""
+"The money can go to a special fund for the school or to buying something for"
+" the classroom. "
+
+msgid ""
+msgstr ""
+"One of the challenges is to make the children understand why handling trash "
+"is important, and interesting stories about this process may well find a "
+"variety of markets.Â "
+
+msgid ""
+msgstr ""
+"On a similar note, make sure you check current accepted science before "
+"dealing with greenhouse gases, global warming, or other controversial "
+"issues. "
+
+msgid ""
+msgstr ""
+"Just as the fashions in teaching reading were in flux when the last edition "
+"of this book was written, opinions on some ecological issues are currently "
+"subject to change.Â "
+
+msgid ""
+msgstr ""
+"Disaster preparedness is now introduced in third grade along with an "
+"increase in health and safety issues. "
+
+msgid ""
+msgstr ""
+"Natural disasters are more commonly dealt with in the classroom than "
+"terrorism. "
+
+msgid ""
+msgstr ""
+"One can see the difference that education and preparedness make when "
+"studying how communities deal with the same or similar incidents. "
+
+msgid ""
+msgstr ""
+"Knowing what to do in the case of fire, earthquake, flood, or high winds can"
+" save lives, and that educational process often starts in the classroom.Â "
+
+msgid ""
+msgstr "Diet is a particular focus now. "
+
+msgid ""
+msgstr ""
+"Childhood obesity will probably be a political and social issue for ten, or "
+"more, years to come. "
+
+msgid ""
+msgstr ""
+"The students are already familiar with the food pyramid, but knowing what "
+"calories are, or carbohydrates, and other issues generally wait for third "
+"grade. "
+
+msgid ""
+msgstr ""
+"With today's emphasis on weight and health, the \"Fat Albert\" style of hero"
+" will probably be a hard sell, but be careful not to make fun of an "
+"overweight child. "
+
+msgid ""
+msgstr "Personal attack, no matter what the fashion, is unacceptable.Â "
+
+msgid ""
+msgstr ""
+"Space, new types of transportation, and a world of future science are also "
+"introduced in second and third grades. "
+
+msgid ""
+msgstr ""
+"Science fiction stories as a genre once waited for fourth or fifth grade, "
+"but are now welcome. "
+
+msgid ""
+msgstr ""
+"The stories should be based on what we can expect in a real future and "
+"should explain what things like rotocars are or how they work.Â "
+
+msgid ""
+msgstr " Social Changes."
+
+msgid ""
+msgstr ""
+"Third graders begin identifying themselves with the world around them "
+"through attachments to objects such as toys. "
+
+msgid ""
+msgstr "They begin to clearly prefer one thing to another. "
+
+msgid ""
+msgstr ""
+"It is just this discovery of taste preferences that creates devoted fans. "
+
+msgid ""
+msgstr ""
+"Whether it's Star Wars or the Little Mermaid, eight- and nine-year-old third"
+" graders are prime markets for toy manufacturers."
+
+msgid ""
+msgstr " In the Classroom."
+
+msgid ""
+msgstr ""
+"Health, drug, and sex education are started early throughout the United "
+"States, and antidrug messages are often a part of the third-grade "
+"curriculum. "
+
+msgid ""
+msgstr ""
+"In our culture, the word drug has generally taken on the connotation of "
+"being a narcotic or other controlled substance. "
+
+msgid ""
+msgstr ""
+"In most schools, however, the idea has expanded to include caffeine, "
+"tobacco, and alcohol. "
+
+msgid ""
+msgstr ""
+"It is wise to stay away from any positive portrayal of these substances, "
+"whether your work is aimed at an academic or popular market. "
+
+msgid ""
+msgstr ""
+"The word medicine is generally used to specify the proper use of controlled "
+"substances."
+
+msgid ""
+msgstr "Third graders do a lot of in-class reading and group reading. "
+
+msgid ""
+msgstr "One of the popular classroom subjects is sports. "
+
+msgid ""
+msgstr ""
+"The details, rules, and technical aspects of sports begin to be introduced "
+"at this level, and sports will remain a high-interest subject throughout all"
+" children's and young adult markets. "
+
+msgid ""
+msgstr "Another ongoing interest is in mystery stories. "
+
+msgid ""
+msgstr ""
+"While they are one of the most popular genres for young readers, there are a"
+" few rules you need to know. "
+
+msgid ""
+msgstr ""
+"Too much violence is generally unacceptable for any juvenile writing. "
+
+msgid ""
+msgstr "For preteens, murder is out, and so are most dead bodies. "
+
+msgid ""
+msgstr ""
+"The only corpses generally are mummies that lend a safely creepy atmosphere "
+"to a story. "
+
+msgid ""
+msgstr ""
+"For your youngest readers, such as those for this age, think about centering"
+" your mysteries on missing treasure or legends and secrets. "
+
+msgid ""
+msgstr ""
+"Mysteries can actually hone academic skills in an entertaining way by acting"
+" as elaborate puzzles the reader must solve.Â "
+
+msgid ""
+msgstr " Specific Vocabulary Development."
+
+msgid ""
+msgstr "The prefixes dis, ex, and re are added at this level. "
+
+msgid ""
+msgstr ""
+"For example, disable, disadvantage, disallow, redo, reset, or any other word"
+" already introduced may be used with these prefixes."
+
+msgid ""
+msgstr ""
+"Hyphenated words such as part-time, sit-ups, dry-eyed, and age-old are "
+"introduced in third grade.Â "
+
+msgid ""
+msgstr ""
+"The suffix ment is also introduced at this level: excitement, "
+"encouragement.Â Â "
+
+msgid ""
+msgstr "You may use the name of almost any body part at this level. "
+
+msgid ""
+msgstr ""
+"Ankles, knees, shoulders, and even abdomen join the simpler head, arms, and "
+"legs previously introduced. "
+
+msgid ""
+msgstr "Individual bones and muscles are not understood yet.Â "
+
+msgid ""
+msgstr " Publishing."
+
+msgid ""
+msgstr ""
+"By third grade, children have reached the end of the primary reading level. "
+
+msgid ""
+msgstr ""
+"They have some experience both reading and choosing books and are beginning "
+"to have a good idea of what type of story they like to read."
+
+msgid ""
+msgstr ""
+"Your book title helps sell your story both by catching the reader's "
+"attention and giving him some idea of what the book is about. "
+
+msgid ""
+msgstr ""
+"Mysteries or adventures often announce themselves with their title at this "
+"level: The Mystery of the Golden Door, The Adventure of Aben-Go-Down. "
+
+msgid ""
+msgstr ""
+"The title can also announce whether the main character is a boy or a girl: "
+"Paula Makes a Mess, Norman Joins the Circus. "
+
+msgid ""
+msgstr ""
+"It is true that most book titles are finally chosen by the publisher, but a "
+"carefully selected title may be part of what sells your book (and tells your"
+" publisher you understand the market) in the first place."
+
+msgid ""
+msgstr ""
+"Juvenile publishing is one of the few areas where the commercial rights "
+"covered in every book contract may actually be exercised. "
+
+msgid ""
+msgstr ""
+"Commercial rights cover the use of your story or characters for toys, "
+"posters, magnets, and a rather long list of other odd things. "
+
+msgid ""
+msgstr ""
+"It doesn't happen often, but there are enough Sponge Bob, Elmo, and Batman "
+"t-shirts out there to make one hopeful. "
+
+msgid ""
+msgstr ""
+"If you have not reserved commercial rights, all contracts for such items "
+"will go through your publisher, no matter how little they seem to resemble "
+"your book.Â "
+
+msgid ""
+msgstr " Writing Samples."
+
+msgid ""
+msgstr ""
+"The following writing sample demonstrates how to introduce words not in the "
+"vocabulary:Â "
+
+msgid ""
+msgstr "Every day Maria helps her family. "
+
+msgid ""
+msgstr ""
+"She feeds the chickens and rolls up the bed mats from the dirt floor of "
+"their one-room house. "
+
+msgid ""
+msgstr "She also makes a flat bread called tortillas. "
+
+msgid ""
+msgstr "The tortillas are cooked on top of the stove.Â "
+
+msgid ""
+msgstr "One day Maria woke up early. "
+
+msgid ""
+msgstr "She was sure something special was going to happen. "
+
+msgid ""
+msgstr "Then she remembered what it was. "
+
+msgid ""
+msgstr "Today the men from the town were going to buy bricks in the city. "
+
+msgid ""
+msgstr "They would bring back the bricks to build an oven for the pueblo. "
+
+msgid ""
+msgstr "Her father would go with them to help.Â "
+
+msgid ""
+msgstr "With an oven, they could make bread called bolillos. "
+
+msgid ""
+msgstr "They are very much like French rolls. "
+
+msgid ""
+msgstr "Maria knew that they could make sweet rolls called pan dulces. "
+
+msgid ""
+msgstr "And they could even make cookies and cakes!"
+
+msgid ""
+msgstr "FOURTH GRADEÂ Â "
+
+msgid ""
+msgstr " Social Changes."
+
+msgid ""
+msgstr "Fourth grade is a turning point in a child's development. "
+
+msgid ""
+msgstr "Fourth graders are more independent and self-reliant. "
+
+msgid ""
+msgstr ""
+"Homework is now considered their responsibility rather than one shared with "
+"parents. "
+
+msgid ""
+msgstr ""
+"Most kids are able to read independently, and many begin to read on their "
+"own. "
+
+msgid ""
+msgstr ""
+"Montessori programs often express the enthusiasm of the young reader as "
+"\"exploding into reading.\" This describes many fourth graders well. "
+
+msgid ""
+msgstr ""
+"The jump from the primary readers meant for the first four school years to "
+"the more sophisticated books aimed at fourth grade is almost an explosive "
+"one. "
+
+msgid ""
+msgstr ""
+"Series books became popular in third grade because they give the reader "
+"confidence. "
+
+msgid ""
+msgstr ""
+"In fourth grade, children often read simply for the pleasure of reading, "
+"whether they are adventure stories, mysteries, legends, or science fiction. "
+
+msgid ""
+msgstr ""
+"Children often follow specific authors, such as Judy Blume, and buy book "
+"after book in a series such as Harry Potter or the Babysitters Club.Â "
+
+msgid ""
+msgstr " In the Classroom."
+
+msgid ""
+msgstr ""
+"Fourth grade now covers much, if not most, of the new technology that has "
+"developed over the past ten years: digital equipment, new communication "
+"systems, smart houses, and the cyber-world. "
+
+msgid ""
+msgstr ""
+"Thus, you will find some words that were previously listed as fifth or sixth"
+" grade words used at this level. "
+
+msgid ""
+msgstr ""
+"You can also feel free to use virtually any word from this new vocabulary "
+"whether you are talking about podcasting or using a workstation. "
+
+msgid ""
+msgstr ""
+"Astronomy, geology, paleontology, and other types of science and space are "
+"usually taught in fourth or fifth grade. "
+
+msgid ""
+msgstr ""
+"Science fiction becomes a popular leisure reading subject because it "
+"combines the newly acquired academic knowledge with fast-paced adventure.Â "
+
+msgid ""
+msgstr ""
+"Many words pertaining to American history are learned in fourth grade, as "
+"are the different U.S. "
+
+msgid ""
+msgstr "states and the countries of the world. "
+
+msgid ""
+msgstr "Many types of plants become familiar at this age also. "
+
+msgid ""
+msgstr ""
+"The plants given in the word lists are the ones most commonly used in "
+"literature."
+
+msgid ""
+msgstr "Local history is often introduced at this level. "
+
+msgid ""
+msgstr ""
+"This means you can write about geographic areas such as the Rockies, the "
+"Great Plains, or New England because a large number of children will be "
+"exposed to these topics.Â "
+
+msgid ""
+msgstr ""
+"Native American history is also studied in many fourth-grade classrooms. "
+
+msgid ""
+msgstr ""
+"It is good policy to use the correct names for indigenous groups rather than"
+" using the anglicized or Spanish names. "
+
+msgid ""
+msgstr ""
+"For example, it's just as easy for children to learn the name Kummeai for "
+"the peaceful Native American tribe that lived in San Diego as it is to learn"
+" the Spanish name Degunios. "
+
+msgid ""
+msgstr ""
+"It's also just as easy to use Native Americans, Native American Indians, or "
+"indigenous peoples, as it is to use Indians. "
+
+msgid ""
+msgstr ""
+"Your awareness of ethnic language concerns will enrich the experience of "
+"your readers.Â "
+
+msgid ""
+msgstr ""
+"The new international economy and new breakthroughs in understanding disease"
+" have had an impact on health and fitness programs. "
+
+msgid ""
+msgstr ""
+"Those experts helping shape the new curriculum recommend expanding fourth-"
+"grade education to include diet and the beginning of sex education. "
+
+msgid ""
+msgstr ""
+"Specifically, standard programs now include information on AIDS and HIV, as "
+"well as smoking tobacco and drinking alcohol. "
+
+msgid ""
+msgstr ""
+"Concepts of immunity, genetic links in disease, and disease control are also"
+" recommended for the age group.Â "
+
+msgid ""
+msgstr ""
+"Words pertaining to foods, cooking, and measurements are introduced by this "
+"level and are frequently taught as part of \"fun\" projects in cooking. "
+
+msgid ""
+msgstr ""
+"Children often make cookies or holiday foods in earlier grades, but now "
+"cooking is integrated with mathematics and sociology. "
+
+msgid ""
+msgstr ""
+"Multicultural festivals at schools often attempt to pull together a great "
+"variety of skills in a creative, exciting way.Â "
+
+msgid ""
+msgstr " Publishing."
+
+msgid ""
+msgstr ""
+"Whether it's space, videogames, or babysitting, both fiction and nonfiction "
+"for this age should deal with the special interests and problems of the "
+"eight- to twelve-year-old age group. "
+
+msgid ""
+msgstr "Most books now range between 20,000 and 40,000 words. "
+
+msgid ""
+msgstr ""
+"Typical magazine stories run between 700 and 2,000 words, but most "
+"publications also use a page or two of special-interest short-shorts under "
+"100 words.Â "
+
+msgid ""
+msgstr ""
+"Even the most conservative publishers now use the ten-word sentence as a "
+"target, with a maximum length of about twenty words. "
+
+msgid ""
+msgstr ""
+"Even if it's not required, you should not go too far beyond twenty words at "
+"a stretch because ideas become more difficult to follow. "
+
+msgid ""
+msgstr ""
+"Almost all children are still reading one word at a time at this level, and "
+"they can actually forget the subject being talked about in a long "
+"sentence.Â "
+
+msgid ""
+msgstr ""
+"Be careful of using localized terminology, such as specific wildlife or "
+"customs unique to an area. "
+
+msgid ""
+msgstr ""
+"For example, I once wrote a story on lighter-than-air vehiclesâ€”blimps to "
+"us old guys. "
+
+msgid ""
+msgstr ""
+"I described an exciting new airship as looking \"like a beach ball being "
+"carried on the back of a manta ray.\" My editor thought the description was "
+"too localized and kids in the Midwest wouldn't know what a manta ray was. "
+
+msgid ""
+msgstr ""
+"We finally decided to say it looked \"like a baseball with a handle "
+"attached.\"Â "
+
+msgid ""
+msgstr ""
+"Make sure you check your facts if you are writing about something you "
+"remember from a few years ago, but you do not keep up on the subject. "
+
+msgid ""
+msgstr "Paleontology is an excellent example. "
+
+msgid ""
+msgstr ""
+"Good old Brontosaurus had become an Apatosaurus in the 1990s, and the idea "
+"that many species may have been warm-blooded and herded in family became "
+"widely accepted by the turn of the millennia. "
+
+msgid ""
+msgstr "Current opinions may disagree with what was once considered fact.Â "
+
+msgid ""
+msgstr ""
+"The elementary level, which covers fourth, fifth, and sixth grades, is the "
+"largest of all the markets for children's writers. "
+
+msgid ""
+msgstr "Beyond sheer volume, your readers are loyal and appreciative. "
+
+msgid ""
+msgstr ""
+"They write fan letters and buy or read all the books a favorite writer "
+"produces. "
+
+msgid ""
+msgstr ""
+"That loyalty is the reason so many publishers want series books for this "
+"age. "
+
+msgid ""
+msgstr ""
+"A few publishers won't even look at books that can't be made into a series, "
+"and presenting the possibility of a series in a book proposal may be a big "
+"plus with any publisher.Â "
+
+msgid ""
+msgstr ""
+"Fiction stories should have lots of action, and a carefully crafted modern "
+"plot is absolutely necessary at this point. "
+
+msgid ""
+msgstr ""
+"Many manuscripts are rejected simply because the plots are weak or outdated."
+" "
+
+msgid ""
+msgstr ""
+"Take the time to find out what hobbies and sports are currently popular, "
+"what issues children have to deal with, and what their dreams are; it will "
+"go a long way in helping sell your book.Â "
+
+msgid ""
+msgstr ""
+"Science fiction is often a great way of explaining science concepts or "
+"imparting facts. "
+
+msgid ""
+msgstr ""
+"As with any science fiction writing, your \"hard science\" facts must be "
+"correct.Â "
+
+msgid ""
+msgstr "Nonfiction comes into its own in fourth, fifth, and sixth grades. "
+
+msgid ""
+msgstr ""
+"Magazines and books specialize in science, mathematics, world events, and "
+"much more. "
+
+msgid ""
+msgstr ""
+"When you write for these markets, keep track of your source material in case"
+" you need to supply a bibliography or support a fact. "
+
+msgid ""
+msgstr ""
+"Do not submit a bibliography with a manuscript written for a periodical "
+"unless you are asked to do so or you know the publisher requires it. "
+
+msgid ""
+msgstr ""
+"The Children's Writer's and Illustrator's Market listings sometimes note if "
+"one is necessary. "
+
+msgid ""
+msgstr "When writing a nonfiction book, reference material should be cited."
+
+msgid ""
+msgstr " Writing Samples."
+
+msgid ""
+msgstr ""
+"The following excerpt demonstrates the fourth grader's new interest in "
+"nonfiction and world events:"
+
+msgid ""
+msgstr "Towns are like families. "
+
+msgid ""
+msgstr "The people who work give money to run the town. "
+
+msgid ""
+msgstr ""
+"That year, more than half the people in South Renovo were out of work. "
+
+msgid ""
+msgstr "That means they had over 50 percent unemployment. "
+
+msgid ""
+msgstr "So the town didn't have much money to spend. "
+
+msgid ""
+msgstr "It was so bad even the local YMCA had to shut down.Â "
+
+msgid ""
+msgstr ""
+"It also meant Debra Burrows, the park director, had no money for summer "
+"projects. "
+
+msgid ""
+msgstr "What she did have was over one hundred kids with nothing to do. "
+
+msgid ""
+msgstr "She must have felt like Old Mother Hubbard. "
+
+msgid ""
+msgstr "There were only two things left in the playground cupboard. "
+
+msgid ""
+msgstr "They had two gallons of white glue and some paper. "
+
+msgid ""
+msgstr "So the kids decided to see how long a paper chain they could make.Â "
+
+msgid ""
+msgstr ""
+"Later in the same story is this paragraph, capitalizing on the interest of "
+"readers learning about measurements:Â "
+
+msgid ""
+msgstr "Some kids had odometers on their bikes. "
+
+msgid ""
+msgstr ""
+"They used them to measure one-tenth of a mile along the playground fence. "
+
+msgid ""
+msgstr "The kids then measured their work in picnic tables (six feet). "
+
+msgid ""
+msgstr ""
+"When they finished a picnic table length, they laid it along the fence. "
+
+msgid ""
+msgstr "Eighty-eight picnic tables made one fence length. "
+
+msgid ""
+msgstr ""
+"The kids made about one fence length, or one-tenth of a mile, each day."
+
+msgid ""
+msgstr "FIFTH GRADEÂ Â "
+
+msgid ""
+msgstr " Social Changes."
+
+msgid ""
+msgstr ""
+"New studies have shown that many children who have been struggling with "
+"reading until now break through in fifth grade. "
+
+msgid ""
+msgstr ""
+"For example, about 60 percent of children in the study who had dyslexia and "
+"were typically reading at a second-grade level at the beginning of the year "
+"jumped to tenth- or twelfth-grade level by the end of the year. "
+
+msgid ""
+msgstr ""
+"That jump typifies other, fairly dramatic, changes in a fifth-grader's life."
+" "
+
+msgid ""
+msgstr ""
+"Fifth graders begin to embark on the stage of growth that changes their "
+"focus from home to peers. "
+
+msgid ""
+msgstr ""
+"This is fully realized by sixth and seventh grades, but it begins in fifth "
+"grade. "
+
+msgid ""
+msgstr "Friends' opinions can have as much influence now as a parent's. "
+
+msgid ""
+msgstr ""
+"Those euphemistically called \"early bloomers\" begin to see secondary "
+"sexual characteristics change. "
+
+msgid ""
+msgstr ""
+"Many students become interested in the opposite sex, whereas others don't "
+"see what all the fuss is about. "
+
+msgid ""
+msgstr ""
+"In any event, fifth graders become more focused on the outside world than "
+"before."
+
+msgid ""
+msgstr ""
+"One way to tap into this new maturity and outside interest is to have "
+"students put together \"real\" television broadcasts or other media shows. "
+
+msgid ""
+msgstr ""
+"Even the smallest schools can now produce packages (a complete program on "
+"tape or digital video meant to function as a self-contained, finished unit) "
+"of news programs, original plays, or other material to run free of charge on"
+" a variety of venues. "
+
+msgid ""
+msgstr ""
+"In the past, owing to the low cost and ease of accessibility, most of the "
+"time that meant television; however, the possibilities have been greatly "
+"expanded. "
+
+msgid ""
+msgstr ""
+"Streaming online video, Web-based television and radio broadcasting, "
+"podcasting, and other new technologies provide great potential for sharing "
+"the student's talent with the entire world. "
+
+msgid ""
+msgstr ""
+"Free Web sites and production programs make these kinds of projects more "
+"economically feasible than ever before. "
+
+msgid ""
+msgstr "In the Classroom. "
+
+msgid ""
+msgstr ""
+"Current events generally become part of classroom learning and discussion in"
+" fifth grade. "
+
+msgid ""
+msgstr ""
+"In most areas, fifth- or sixth-grade students have to memorize the states "
+"and their capitals. "
+
+msgid ""
+msgstr ""
+"The children have a general idea of what each state is like, including their"
+" major agricultural and economic products.Â "
+
+msgid ""
+msgstr ""
+"Most animals can be recognized at this level; echidnas and platypuses join "
+"more familiar animals as good subjects for stories and articles. "
+
+msgid ""
+msgstr "Many cities, countries, and sites are introduced by fifth grade. "
+
+msgid ""
+msgstr ""
+"If you choose to write about an unusual country, you should be sure to place"
+" it geographically; tell your reader that Belize is in Central America and "
+"Ghana is on the west coast of Africa.Â "
+
+msgid ""
+msgstr "Prehistory is usually studied in fifth grade. "
+
+msgid ""
+msgstr ""
+"Early man, cave paintings, fire and the development of civilization are "
+"often covered. "
+
+msgid ""
+msgstr ""
+"Science teachers would like to make sure the children know that people did "
+"not keep dinosaurs as pets and that they actually know the eras these "
+"different species walked the earth. "
+
+msgid ""
+msgstr ""
+"Even the most unusual dinosaurs, such as Cynognathus, are introduced with "
+"their proper name. "
+
+msgid ""
+msgstr ""
+"New standards recommend that schools introduce earth sciences such as "
+"geology in a more sophisticated manner than in the past, including basic "
+"rock types and the scientific names of different geologic ages."
+
+msgid ""
+msgstr ""
+"Ecology and environmentalism are major issues in children's magazines, text "
+"books, and general literature. "
+
+msgid ""
+msgstr ""
+"These topics will remain important areas in children's publishing for many "
+"years to come.Â "
+
+msgid ""
+msgstr ""
+"Nonfiction subjects that are often introduced in fourth grade in a rather "
+"casual way, such as hard science and current events, now become very "
+"important both in the classroom and out. "
+
+msgid ""
+msgstr "Publishing. "
+
+msgid ""
+msgstr "Become familiar with the magazines for this level. "
+
+msgid ""
+msgstr ""
+"A large number of magazines cover everything from unusual animals and robots"
+" to ongoing peace and war negotiations to killer bees. "
+
+msgid ""
+msgstr "Visit your local elementary school to see what magazines they carry."
+
+msgid ""
+msgstr ""
+"For the teacher or writer, producing material for a television program (or "
+"the program itself) can engage students and readers in tremendously exciting"
+" projects in acting, reading, writing, and researching that have relevance "
+"to the children's lives. "
+
+msgid ""
+msgstr ""
+"It also provides an excellent and growing market for those who want to write"
+" plays for children or work in other dramatic forms. "
+
+msgid ""
+msgstr ""
+"It is just as easy to write for this medium correctly (and teach children to"
+" write for it correctly) as it is to produce something in a haphazard "
+"manner. "
+
+msgid ""
+msgstr ""
+"Actually, most of the rules for broadcast writing are meant to make the "
+"material easier to use during production.Â "
+
+msgid ""
+msgstr ""
+"Another alternative market is working with children in the electronic media."
+" "
+
+msgid ""
+msgstr "That could include computer programs or radio broadcasting.Â "
+
+msgid ""
+msgstr ""
+"One of the ways to make news stories and other academic subjects relevant "
+"and interesting is called localization, that is, finding a local angle for "
+"the story. "
+
+msgid ""
+msgstr ""
+"To do that, you might interview a family from a different country or cover a"
+" local ethnic festival. "
+
+msgid ""
+msgstr ""
+"Localization is highly desirable in the classroom, in broadcast writing, and"
+" writing for local periodicals; but you must be careful not to assume that a"
+" broader audience will recognize, or be interested in, strictly local "
+"references. "
+
+msgid ""
+msgstr ""
+"National magazines and books aimed at a national market are leery of any "
+"type of localization. "
+
+msgid ""
+msgstr ""
+"This is also a good place to become aware of your options that go beyond the"
+" \"normal\" forms of publishing. "
+
+msgid ""
+msgstr ""
+"Many of these alternative markets are grouped under \"electronic rights\" in"
+" your book publishing contract. "
+
+msgid ""
+msgstr ""
+"Unimportant until recently, they include the possibility of your work being "
+"included in computer databases or sent by fax. "
+
+msgid ""
+msgstr ""
+"Some publishers are beginning to sell material only via electronic "
+"marketing. "
+
+msgid ""
+msgstr ""
+"To find these publishers, look under the syndicates listing in Writer's "
+"Market.Â "
+
+msgid ""
+msgstr " Writing Samples."
+
+msgid ""
+msgstr ""
+"The following excerpt illustrates the technique of sneaking in a history "
+"lesson while actually telling a nonfiction story:"
+
+msgid ""
+msgstr ""
+"The tales of lost missions in Mexico are told wherever treasure hunters get "
+"together. "
+
+msgid ""
+msgstr ""
+"The stories usually start off telling about gold and jewels hidden in the "
+"missions. "
+
+msgid ""
+msgstr ""
+"They often end up being about the curses that are supposed to protect the "
+"treasure."
+
+msgid ""
+msgstr "Most of these legends are, at best, flights of fancy. "
+
+msgid ""
+msgstr "They grew out of daydreams and years of searching. "
+
+msgid ""
+msgstr "Yet, the missions themselves are probably real. "
+
+msgid ""
+msgstr "More than that, there is some proof the curses are real, too.Â "
+
+msgid ""
+msgstr "Later in the same piece, a geography lesson is incorporated:Â "
+
+msgid ""
+msgstr "Mountains run down Mexico's west coast, and few people live there. "
+
+msgid ""
+msgstr ""
+"Even in the south, where there is lots of water, there are only a few place "
+"names on the map. "
+
+msgid ""
+msgstr ""
+"Most of the \"towns\" shown are really only ranches where you can get some "
+"rest."
+
+msgid ""
+msgstr "SIXTH GRADE AND MIDDLE SCHOOLÂ Â "
+
+msgid ""
+msgstr " Social Changes."
+
+msgid ""
+msgstr ""
+"Sixth grade is now commonly combined with seventh and eighth grades, or even"
+" ninth grade, to create a middle school. "
+
+msgid ""
+msgstr ""
+"Most middle school students are preteens or young teenagers whose egos "
+"depend on being seen as that and not as children. "
+
+msgid ""
+msgstr ""
+"Their social life is usually centered on groups of friends rather than on "
+"the family. "
+
+msgid ""
+msgstr ""
+"They have favorite rock bands, and some have their own sources of income. "
+
+msgid ""
+msgstr ""
+"Even though your reader may seem to have taken a giant step toward growing "
+"up, you should stay away from any positive portrayal of drugs, tobacco, "
+"alcohol, street language, explicit sex, graphic crime, or violence. "
+
+msgid ""
+msgstr "Drunkenness should not be portrayed as humorous.Â "
+
+msgid ""
+msgstr ""
+"Because of their own changes, the readers are usually very aware of their "
+"appearance and, subsequently, how characters in stories look. "
+
+msgid ""
+msgstr "Description is not only acceptable, it's desired.Â "
+
+msgid ""
+msgstr " In the Classroom."
+
+msgid ""
+msgstr ""
+"If they haven't already done so, most sixth-grade students are now required "
+"to memorize the states, their capitals, and their major economic "
+"contributions."
+
+msgid ""
+msgstr ""
+"Overall, difficult subjects such as death and divorce are often dealt with "
+"at this level in a realistic way. "
+
+msgid ""
+msgstr "Sixth grade also includes sex and health education. "
+
+msgid ""
+msgstr ""
+"As a result, both in-school and leisure reading materials are often problem "
+"oriented.Â "
+
+msgid ""
+msgstr " Publishing."
+
+msgid ""
+msgstr ""
+"Easy-reading books (also called hi-lo for high interest, low reading) begin "
+"to appear at this level. "
+
+msgid ""
+msgstr ""
+"Most children now have a fairly sophisticated reading vocabulary, and the "
+"low achiever has begun to slip between the cracks. "
+
+msgid ""
+msgstr ""
+"The easy-reading book is one way schools and other programs are trying to "
+"prevent that from happening. "
+
+msgid ""
+msgstr ""
+"These books are written to cover readers from twelve-years-old through young"
+" adults, but they use a controlled vocabulary and sentence length "
+"appropriate to the lower vocabulary levels. "
+
+msgid ""
+msgstr "These books are short and run from 400 to 1,200 words in length. "
+
+msgid ""
+msgstr ""
+"They use a lot of action and dialogue, and often use sports, romance, "
+"mystery, and ethnic-urban problems as subjects for their stories.Â "
+
+msgid ""
+msgstr ""
+"Besides being a part of the elementary eight- to twelve-year-old market, the"
+" sixth grader is more and more often a real part of the high school market, "
+"and others in the middle school group are firmly in its grasp. "
+
+msgid ""
+msgstr ""
+"The high school group officially targets the thirteen- to seventeen-year-"
+"olds, but many readers are somewhat younger. "
+
+msgid ""
+msgstr ""
+"This group uses an adult vocabulary (as long as it is not too sophisticated)"
+" and sentence structure. "
+
+msgid ""
+msgstr ""
+"Most books range from 25,000 to 55,000 words, and longer lengths are "
+"permissible. "
+
+msgid ""
+msgstr ""
+"Popular fiction subjects include romance, suspense, mild horror, the "
+"supernatural, and humor.Â "
+
+msgid ""
+msgstr ""
+"More magazines are aimed at the elementary or middle school group than any "
+"other. "
+
+msgid ""
+msgstr ""
+"Eighty percent of the magazine stories are nonfiction and include age-"
+"related problems, dress, dating, interviews, fads, and special interests. "
+
+msgid ""
+msgstr "Periodical stories usually range from 1,000 to 3,500 words.Â "
+
+msgid ""
+msgstr ""
+"By sixth grade, it becomes important to the reader to know exactly how a "
+"character, especially a leading character, looks. "
+
+msgid ""
+msgstr ""
+"The just-preteen reader identifies with the leading characters in the books "
+"she reads, and her concerns about her own appearance are directly "
+"transferred to those characters. "
+
+msgid ""
+msgstr ""
+"Others in the middle school group want to know how a character dresses, what"
+" kind of makeup they wear, how they get around without mom driving, and "
+"other issues that help answer very personal questions. "
+
+msgid ""
+msgstr ""
+"Do be careful when you describe your characters not to make them too much a "
+"part of a popular fad either in dress or in speech. "
+
+msgid ""
+msgstr ""
+"Fads pass quickly, and your book may follow if the reader sees it as \"too "
+"last year.\"Â "
+
+msgid ""
+msgstr " Writing Samples."
+
+msgid ""
+msgstr ""
+"The following example shows the increased description present in stories for"
+" this age group. "
+
+msgid ""
+msgstr ""
+"Not only do readers now have longer attention spans, they want descriptive "
+"details and like to know how characters look:"
+
+msgid ""
+msgstr "Elizabeth thought that it was impossible not to admire him. "
+
+msgid ""
+msgstr ""
+"Yet, if you looked at his features one at a time, there was little special "
+"about him. "
+
+msgid ""
+msgstr "He was slim for his 5 feet 10 inches. "
+
+msgid ""
+msgstr "Besides his eyes, his gold hair and beard were his best features. "
+
+msgid ""
+msgstr "Elizabeth smiled to herself. "
+
+msgid ""
+msgstr "She remembered how Bob had grown that beard.Â "
+
+msgid ""
+msgstr ""
+"The following excerpt from a nonfiction piece uses the longer sentence "
+"length and, again, more description than is found in books for younger "
+"readers:Â "
+
+msgid ""
+msgstr ""
+"One of the reasons we are not sure if these creatures are real is that their"
+" habitats are desolate mountain ranges. "
+
+msgid ""
+msgstr ""
+"In Asia, the Abominable Snow Man is supposed to live in the areas that are "
+"permanently covered with snow. "
+
+msgid ""
+msgstr ""
+"Its shaggy white coat is the perfect camouflage for its surroundings. "
+
+msgid ""
+msgstr ""
+"In North America, Bigfoot's dark shaggy hair serves the same purpose, and, "
+"if it is real, it stays well hidden in the shadows and foliage."
