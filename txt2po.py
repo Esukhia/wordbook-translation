@@ -10,7 +10,7 @@ def get_unique_id():
 
 
 def find_sents(infile):
-    dump = Path(infile).read_text().splitlines()
+    dump = Path(infile).read_text(encoding="utf-8").splitlines()
     sents = [s for s in dump if s.strip()] 
     # code to identify sentences in source file
     return sents
