@@ -3,6 +3,8 @@ import polib
 from uuid import uuid4
 
 
+# TODO: update po without overwriting the IDs
+
 def get_unique_id():
     return uuid4().hex
 
