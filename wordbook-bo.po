@@ -1,6 +1,5 @@
 # 
 # Translators:
-# Ngawang Trinley <nt@esukhia.org>, 2021
 # Kalsang Dhondup <Kalsangyoungwrites@gmail.com>, 2021
 # Ngawang Trinley <ngawangtrinley@gmail.com>, 2021
 # 
@@ -14,6 +13,7 @@ msgstr ""
 msgid "dca3147a384d4e51843637749fd756c9"
 msgstr " བྱིས་པའི་དཔེ་དེབ་རྩོམ་པ་པོའི་མིང་ཚིག་དེབ།"
 
+# test comment
 msgid "9d3c1be0ff524d28a047efb59cea26e8"
 msgstr "ཁྱེད་ཀྱིས་ཤེས་དགོས་པའི་གནད་དོན་ཁག་ཅིག"
 
