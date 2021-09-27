@@ -2,10 +2,11 @@
 # Translators:
 # Ngawang Trinley <nt@esukhia.org>, 2021
 # Kalsang Dhondup <Kalsangyoungwrites@gmail.com>, 2021
+# Ngawang Trinley <ngawangtrinley@gmail.com>, 2021
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Kalsang Dhondup <Kalsangyoungwrites@gmail.com>, 2021\n"
+"Last-Translator: Ngawang Trinley <ngawangtrinley@gmail.com>, 2021\n"
 "Language-Team: Tibetan (https://www.transifex.com/esukhia/teams/123091/bo/)\n"
 "Language: bo\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -96,7 +97,7 @@ msgstr ""
 
 msgid "90320074bc53412d903615a202553582"
 msgstr ""
-"དཔེར་ན་སྦྲག་པ་ཞེས་པའི་ཚབ་ཏུ་སྦྲག་སྐྱེལ་མཁན་ཞེས་བེད་སྤྱོད་ཐོངས། "
+"དཔེར་ན། སྦྲག་པ་ཞེས་པའི་ཚབ་ཏུ་སྦྲག་སྐྱེལ་མཁན་ཞེས་བེད་སྤྱོད་ཐོངས། "
 "བསམ་བློ་དེ་མིང་གི་མཐའ་རུ་སྐྱེས་པ་མཚོན་པའི་མིང་པའམ་པོ་ཡོད་པའི་ལས་ཀ་དང་ལས་གནས་ཚང་མར་ལག་བསྟར་གྱིས།"
 " "
 
